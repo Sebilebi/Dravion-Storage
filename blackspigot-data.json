@@ -1,0 +1,84 @@
+{
+  "plugins": [
+    {
+      "nombre": "DeluxeUpgrade",
+      "imagen": "https://blackspigot.com/data/FTSlider/245369.jpg?1735980310",
+      "url": "https://blackspigot.com/threads/deluxeupgrade-itemsadder-oraxen-and-vanilla-1-16-1-21.245369/"
+    },
+    {
+      "nombre": "Misc's Snowy Mobs",
+      "imagen": "https://blackspigot.com/data/FTSlider/245327.jpg?1735954369",
+      "url": "https://blackspigot.com/threads/miscs-snowy-mobs.245327/"
+    },
+    {
+      "nombre": "Cazfps Hamster pets",
+      "imagen": "https://blackspigot.com/data/FTSlider/245035.jpg?1735842177",
+      "url": "https://blackspigot.com/threads/cazfps-hamster-pets.245035/"
+    },
+    {
+      "nombre": "Cazfps Pets - Red Pandas",
+      "imagen": "https://blackspigot.com/data/FTSlider/245034.jpg?1735842164",
+      "url": "https://blackspigot.com/threads/cazfps-pets-red-pandas.245034/"
+    },
+    {
+      "nombre": "Cubees Social Media Pack - Pets & companions",
+      "imagen": "https://blackspigot.com/data/FTSlider/245033.jpg?1735842144",
+      "url": "https://blackspigot.com/threads/cubees-social-media-pack-pets-companions.245033/"
+    },
+    {
+      "nombre": "Sweet Pets - Foxes",
+      "imagen": "https://blackspigot.com/data/FTSlider/245032.jpg?1735842125",
+      "url": "https://blackspigot.com/threads/sweet-pets-foxes.245032/"
+    },
+    {
+      "nombre": "Sweet Pets - Weasels",
+      "imagen": "https://blackspigot.com/data/FTSlider/245031.jpg?1735842113",
+      "url": "https://blackspigot.com/threads/sweet-pets-weasels.245031/"
+    },
+    {
+      "nombre": "Sonic Pets - Shadow the hedgehog plushie!",
+      "imagen": "https://blackspigot.com/data/FTSlider/244816.jpg?1735760816",
+      "url": "https://blackspigot.com/threads/sonic-pets-shadow-the-hedgehog-plushie.244816/"
+    },
+    {
+      "nombre": "Nexo | Custom Blocks, Items, Furniture, Emotes & ResourcePack-Manager [1.20.4-1.21.4]",
+      "imagen": "https://blackspigot.com/data/resource_icons/32/32993.jpg?1735408396",
+      "url": "https://blackspigot.com/downloads/nexo-custom-blocks-items-furniture-emotes-resourcepack-manager-1-20-4-1-21-4.32993/"
+    },
+    {
+      "nombre": "AxQuestBoard | Competitive Quests Plugin",
+      "imagen": "https://blackspigot.com/data/resource_icons/33/33026.jpg?1736490065",
+      "url": "https://blackspigot.com/downloads/axquestboard-competitive-quests-plugin.33026/"
+    },
+    {
+      "nombre": "Elections \u25cf Nominate, vote & win with ease [1.8-1.15]",
+      "imagen": "https://blackspigot.com/data/resource_icons/16/16564.jpg?1592566658",
+      "url": "https://blackspigot.com/downloads/elections-nominate-vote-win-with-ease-1-8-1-15.16564/"
+    },
+    {
+      "nombre": "\u2b50\ufe0fTERRITORY | NEW LAND CLAIMING PLUGIN",
+      "imagen": "https://blackspigot.com/data/resource_icons/33/33010.jpg?1735971794",
+      "url": "https://blackspigot.com/downloads/territory-new-land-claiming-plugin.33010/"
+    },
+    {
+      "nombre": "Dexterity \u2b55 Rotate and Resize Blocks with Ease \u2705 No Dependencies\u26a1Add Custom Objects and Furniture",
+      "imagen": "https://blackspigot.com/data/resource_icons/33/33012.jpg?1735977691",
+      "url": "https://blackspigot.com/downloads/dexterity-rotate-and-resize-blocks-with-ease-no-dependencies-add-custom-objects-and-furniture.33012/"
+    },
+    {
+      "nombre": "[1.13-1.18] Races of Thana\u30fbCustom GUI, Attributes, Day & Night Effects and more!",
+      "imagen": "https://blackspigot.com/data/resource_icons/13/13214.jpg?1645234749",
+      "url": "https://blackspigot.com/downloads/1-13-1-18-races-of-thana_custom-gui-attributes-day-night-effects-and-more.13214/"
+    },
+    {
+      "nombre": "\u23f3 EcoArmor \u2b55 Create Custom Armor \u2705 Premade Sets \u2728 Upgrades, Crafting, Custom Textures",
+      "imagen": "https://blackspigot.com/data/resource_icons/28/28530.jpg?1675795038",
+      "url": "https://blackspigot.com/downloads/ecoarmor-create-custom-armor-premade-sets-upgrades-crafting-custom-textures.28530/"
+    },
+    {
+      "nombre": "\u2728| KatsuAnimation - Play gifs in minecraft",
+      "imagen": "https://blackspigot.com/data/resource_icons/33/33041.jpg?1736629823",
+      "url": "https://blackspigot.com/downloads/katsuanimation-play-gifs-in-minecraft.33041/"
+    }
+  ]
+}
