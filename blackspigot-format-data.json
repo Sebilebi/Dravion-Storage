@@ -1,5 +1,10 @@
 [
     {
+        "name": "RoseLoot",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33123.jpg?1737922698",
+        "url": "https://www.blackspigot.com/downloads/roseloot.33123/"
+    },
+    {
         "name": "\u2728ExtraStorage\u2728 Create virtual storage for your player | Oraxen and ItemsAdder support",
         "image": "https://www.blackspigot.com/data/resource_icons/31/31056.jpg?1695739459",
         "url": "https://www.blackspigot.com/downloads/extrastorage-create-virtual-storage-for-your-player-oraxen-and-itemsadder-support.31056/"
@@ -28,11 +33,6 @@
         "name": "SkyGrid (1.13 - 1.19+)",
         "image": "https://www.blackspigot.com/data/resource_icons/17/17351.jpg?1597383755",
         "url": "https://www.blackspigot.com/downloads/skygrid-1-13-1-19.17351/"
-    },
-    {
-        "name": "RoseLoot",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33123.jpg?1737922698",
-        "url": "https://www.blackspigot.com/downloads/roseloot.33123/"
     },
     {
         "name": "ParkourRun [1.8-1.15]",
@@ -145,9 +145,34 @@
         "url": "https://www.blackspigot.com/downloads/plotsquared-v7.22799/"
     },
     {
+        "name": "Vanilla Improvements: Improved Zombies",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33025.jpg?1736489998",
+        "url": "https://www.blackspigot.com/downloads/vanilla-improvements-improved-zombies.33025/"
+    },
+    {
+        "name": "Superhero Pets! #2 - Dogpool",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32999.jpg?1735760559",
+        "url": "https://www.blackspigot.com/downloads/superhero-pets-2-dogpool.32999/"
+    },
+    {
+        "name": "Sweet Pets - Weasels",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33002.jpg?1735841627",
+        "url": "https://www.blackspigot.com/downloads/sweet-pets-weasels.33002/"
+    },
+    {
+        "name": "Sweet Pets - Foxes",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33003.jpg?1735841699",
+        "url": "https://www.blackspigot.com/downloads/sweet-pets-foxes.33003/"
+    },
+    {
         "name": "Cazfps Hamster pets",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33006.jpg?1735842083",
         "url": "https://www.blackspigot.com/downloads/cazfps-hamster-pets.33006/"
+    },
+    {
+        "name": "Elemental Books",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32977.jpg?1735399459",
+        "url": "https://www.blackspigot.com/downloads/elemental-books.32977/"
     },
     {
         "name": "Superhero Pets! #1 - Headpool",
@@ -165,19 +190,9 @@
         "url": "https://www.blackspigot.com/downloads/miscs-snowy-mobs.33007/"
     },
     {
-        "name": "Sweet Pets - Foxes",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33003.jpg?1735841699",
-        "url": "https://www.blackspigot.com/downloads/sweet-pets-foxes.33003/"
-    },
-    {
         "name": "Cubees Sorcery Bundle",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33061.jpg?1737050890",
         "url": "https://www.blackspigot.com/downloads/cubees-sorcery-bundle.33061/"
-    },
-    {
-        "name": "Elemental Books",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32977.jpg?1735399459",
-        "url": "https://www.blackspigot.com/downloads/elemental-books.32977/"
     },
     {
         "name": "RPG Class Legends | Terramancer",
@@ -193,21 +208,6 @@
         "name": "Dynamic Player VFX | Skills, VFX Models and Items",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33063.jpg?1737051041",
         "url": "https://www.blackspigot.com/downloads/dynamic-player-vfx-skills-vfx-models-and-items.33063/"
-    },
-    {
-        "name": "Sweet Pets - Weasels",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33002.jpg?1735841627",
-        "url": "https://www.blackspigot.com/downloads/sweet-pets-weasels.33002/"
-    },
-    {
-        "name": "Superhero Pets! #2 - Dogpool",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32999.jpg?1735760559",
-        "url": "https://www.blackspigot.com/downloads/superhero-pets-2-dogpool.32999/"
-    },
-    {
-        "name": "Vanilla Improvements: Improved Zombies",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33025.jpg?1736489998",
-        "url": "https://www.blackspigot.com/downloads/vanilla-improvements-improved-zombies.33025/"
     },
     {
         "name": "Nog\u2019s Plushies [Valentines]",
