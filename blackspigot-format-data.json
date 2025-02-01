@@ -1,5 +1,30 @@
 [
     {
+        "name": "Upgradeable Hoppers - Fast Hopper Plugin Link Containers Item Transfer Suction Chunk - 1.20 Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/15/15400.jpg?1585634616",
+        "url": "https://www.blackspigot.com/downloads/upgradeable-hoppers-fast-hopper-plugin-link-containers-item-transfer-suction-chunk-1-20-support.15400/"
+    },
+    {
+        "name": "Werewolves",
+        "image": "https://www.blackspigot.com/data/resource_icons/5/5543.jpg?1506650472",
+        "url": "https://www.blackspigot.com/downloads/werewolves.5543/"
+    },
+    {
+        "name": "Zombies Minigame | [1.8-1.19.2]",
+        "image": "https://www.blackspigot.com/data/resource_icons/26/26788.jpg?1667647584",
+        "url": "https://www.blackspigot.com/downloads/zombies-minigame-1-8-1-19-2.26788/"
+    },
+    {
+        "name": "Slayer Weapon Set",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33115.jpg?1737830143",
+        "url": "https://www.blackspigot.com/downloads/slayer-weapon-set.33115/"
+    },
+    {
+        "name": "\u2728ExtraStorage\u2728 Create virtual storage for your player | Oraxen and ItemsAdder support",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31056.jpg?1695739459",
+        "url": "https://www.blackspigot.com/downloads/extrastorage-create-virtual-storage-for-your-player-oraxen-and-itemsadder-support.31056/"
+    },
+    {
         "name": "RoseLoot",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33123.jpg?1737922698",
         "url": "https://www.blackspigot.com/downloads/roseloot.33123/"
@@ -65,31 +90,6 @@
         "url": "https://www.blackspigot.com/downloads/dtlplayershops.33126/"
     },
     {
-        "name": "\u2728ExtraStorage\u2728 Create virtual storage for your player | Oraxen and ItemsAdder support",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31056.jpg?1695739459",
-        "url": "https://www.blackspigot.com/downloads/extrastorage-create-virtual-storage-for-your-player-oraxen-and-itemsadder-support.31056/"
-    },
-    {
-        "name": "Slayer Weapon Set",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33115.jpg?1737830143",
-        "url": "https://www.blackspigot.com/downloads/slayer-weapon-set.33115/"
-    },
-    {
-        "name": "Zombies Minigame | [1.8-1.19.2]",
-        "image": "https://www.blackspigot.com/data/resource_icons/26/26788.jpg?1667647584",
-        "url": "https://www.blackspigot.com/downloads/zombies-minigame-1-8-1-19-2.26788/"
-    },
-    {
-        "name": "Werewolves",
-        "image": "https://www.blackspigot.com/data/resource_icons/5/5543.jpg?1506650472",
-        "url": "https://www.blackspigot.com/downloads/werewolves.5543/"
-    },
-    {
-        "name": "Upgradeable Hoppers - Fast Hopper Plugin Link Containers Item Transfer Suction Chunk - 1.20 Support",
-        "image": "https://www.blackspigot.com/data/resource_icons/15/15400.jpg?1585634616",
-        "url": "https://www.blackspigot.com/downloads/upgradeable-hoppers-fast-hopper-plugin-link-containers-item-transfer-suction-chunk-1-20-support.15400/"
-    },
-    {
         "name": "SkyGrid (1.13 - 1.19+)",
         "image": "https://www.blackspigot.com/data/resource_icons/17/17351.jpg?1597383755",
         "url": "https://www.blackspigot.com/downloads/skygrid-1-13-1-19.17351/"
@@ -145,6 +145,26 @@
         "url": "https://www.blackspigot.com/downloads/factionsworld-perfect-factions-terrain.33122/"
     },
     {
+        "name": "Cubees Sorcery Bundle",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33061.jpg?1737050890",
+        "url": "https://www.blackspigot.com/downloads/cubees-sorcery-bundle.33061/"
+    },
+    {
+        "name": "Misc's Snowy Mobs",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33007.jpg?1735954323",
+        "url": "https://www.blackspigot.com/downloads/miscs-snowy-mobs.33007/"
+    },
+    {
+        "name": "Sonic Pets - Shadow the hedgehog plushie!",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33000.jpg?1735760618",
+        "url": "https://www.blackspigot.com/downloads/sonic-pets-shadow-the-hedgehog-plushie.33000/"
+    },
+    {
+        "name": "Superhero Pets! #1 - Headpool",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33001.jpg?1735760718",
+        "url": "https://www.blackspigot.com/downloads/superhero-pets-1-headpool.33001/"
+    },
+    {
         "name": "Elemental Books",
         "image": "https://www.blackspigot.com/data/resource_icons/32/32977.jpg?1735399459",
         "url": "https://www.blackspigot.com/downloads/elemental-books.32977/"
@@ -173,26 +193,6 @@
         "name": "Vanilla Improvements: Improved Zombies",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33025.jpg?1736489998",
         "url": "https://www.blackspigot.com/downloads/vanilla-improvements-improved-zombies.33025/"
-    },
-    {
-        "name": "Superhero Pets! #1 - Headpool",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33001.jpg?1735760718",
-        "url": "https://www.blackspigot.com/downloads/superhero-pets-1-headpool.33001/"
-    },
-    {
-        "name": "Sonic Pets - Shadow the hedgehog plushie!",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33000.jpg?1735760618",
-        "url": "https://www.blackspigot.com/downloads/sonic-pets-shadow-the-hedgehog-plushie.33000/"
-    },
-    {
-        "name": "Misc's Snowy Mobs",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33007.jpg?1735954323",
-        "url": "https://www.blackspigot.com/downloads/miscs-snowy-mobs.33007/"
-    },
-    {
-        "name": "Cubees Sorcery Bundle",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33061.jpg?1737050890",
-        "url": "https://www.blackspigot.com/downloads/cubees-sorcery-bundle.33061/"
     },
     {
         "name": "RPG Class Legends | Terramancer",
@@ -290,6 +290,61 @@
         "url": "https://www.blackspigot.com/downloads/distant-worlds-alien-lava-fauna.32983/"
     },
     {
+        "name": "SurvivalGames",
+        "image": "https://www.blackspigot.com/data/resource_icons/22/22204.jpg?1634233179",
+        "url": "https://www.blackspigot.com/downloads/survivalgames.22204/"
+    },
+    {
+        "name": "UltimateShop-Premium | Menu, dynamic price, limits, apply settings, sell all and more | 1.17 - 1.20",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31351.jpg?1697623755",
+        "url": "https://www.blackspigot.com/downloads/ultimateshop-premium-menu-dynamic-price-limits-apply-settings-sell-all-and-more-1-17-1-20.31351/"
+    },
+    {
+        "name": "Vulcan Anti-Cheat | Advanced Cheat Detection | 1.7-1.19.2",
+        "image": "https://www.blackspigot.com/data/resource_icons/18/18305.jpg?1644986887",
+        "url": "https://www.blackspigot.com/downloads/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-2.18305/"
+    },
+    {
+        "name": "[ PRISON CORE ] \u26a1Ultra Prison Core \u26a1\ufe0f[1.8-1.19.X] ~ ALL-IN-ONE solution for prison servers!",
+        "image": "https://www.blackspigot.com/data/resource_icons/19/19543.jpg?1613479057",
+        "url": "https://www.blackspigot.com/downloads/prison-core-ultra-prison-core-1-8-1-19-x-all-in-one-solution-for-prison-servers.19543/"
+    },
+    {
+        "name": "Actions \u2b55 Customize your server \u2705 Create Scripts, Perks, Automations \u2728 50+ Plugin Hooks",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33105.jpg?1737498202",
+        "url": "https://www.blackspigot.com/downloads/actions-customize-your-server-create-scripts-perks-automations-50-plugin-hooks.33105/"
+    },
+    {
+        "name": "StatTrackers \u2b55 EULA-Friendly Cosmetic \u2705 StatTrak in Minecraft \u2728 Intuitive GUI",
+        "image": "https://www.blackspigot.com/data/resource_icons/23/23120.jpg?1647368405",
+        "url": "https://www.blackspigot.com/downloads/stattrackers-eula-friendly-cosmetic-stattrak-in-minecraft-intuitive-gui.23120/"
+    },
+    {
+        "name": "EconomyShopGUI - SellStick | SellWand",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31344.jpg?1697329097",
+        "url": "https://www.blackspigot.com/downloads/economyshopgui-sellstick-sellwand.31344/"
+    },
+    {
+        "name": "EnchantmentSlots | Add enchantment slot feature to your server! | 1.17 - 1.20",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31352.jpg?1697623830",
+        "url": "https://www.blackspigot.com/downloads/enchantmentslots-add-enchantment-slot-feature-to-your-server-1-17-1-20.31352/"
+    },
+    {
+        "name": "[1.13-1.18] Races of Thana\u30fbCustom GUI, Attributes, Day &amp; Night Effects and more!",
+        "image": "https://www.blackspigot.com/data/resource_icons/13/13214.jpg?1645234749",
+        "url": "https://www.blackspigot.com/downloads/1-13-1-18-races-of-thana_custom-gui-attributes-day-night-effects-and-more.13214/"
+    },
+    {
+        "name": "\u2b50\ufe0fTERRITORY | NEW LAND CLAIMING PLUGIN",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33010.jpg?1735971794",
+        "url": "https://www.blackspigot.com/downloads/territory-new-land-claiming-plugin.33010/"
+    },
+    {
+        "name": "\u2705 -25% \u2620\ufe0f HackedServer | MODS &amp; CLIENTS detector 3.0.0 - alpha b",
+        "image": "https://www.blackspigot.com/data/resource_icons/8/8054.jpg?1563296499",
+        "url": "https://www.blackspigot.com/downloads/25-hackedserver-mods-clients-detector-3-0-0-alpha-b.8054/"
+    },
+    {
         "name": "\u2728| KatsuAnimation - Play gifs in minecraft",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33041.jpg?1736629823",
         "url": "https://www.blackspigot.com/downloads/katsuanimation-play-gifs-in-minecraft.33041/"
@@ -363,11 +418,6 @@
         "name": "AntiCheatAddition",
         "image": "https://www.blackspigot.com/data/resource_icons/2/2650.jpg?1647462187",
         "url": "https://www.blackspigot.com/downloads/anticheataddition.2650/"
-    },
-    {
-        "name": "\u2705 -25% \u2620\ufe0f HackedServer | MODS &amp; CLIENTS detector 3.0.0 - alpha b",
-        "image": "https://www.blackspigot.com/data/resource_icons/8/8054.jpg?1563296499",
-        "url": "https://www.blackspigot.com/downloads/25-hackedserver-mods-clients-detector-3-0-0-alpha-b.8054/"
     },
     {
         "name": "Cinematic Studio | Cutscenes Creation Tool",
@@ -495,26 +545,6 @@
         "url": "https://www.blackspigot.com/downloads/plotsquared-v7.22799/"
     },
     {
-        "name": "[ PRISON CORE ] \u26a1Ultra Prison Core \u26a1\ufe0f[1.8-1.19.X] ~ ALL-IN-ONE solution for prison servers!",
-        "image": "https://www.blackspigot.com/data/resource_icons/19/19543.jpg?1613479057",
-        "url": "https://www.blackspigot.com/downloads/prison-core-ultra-prison-core-1-8-1-19-x-all-in-one-solution-for-prison-servers.19543/"
-    },
-    {
-        "name": "Vulcan Anti-Cheat | Advanced Cheat Detection | 1.7-1.19.2",
-        "image": "https://www.blackspigot.com/data/resource_icons/18/18305.jpg?1644986887",
-        "url": "https://www.blackspigot.com/downloads/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-2.18305/"
-    },
-    {
-        "name": "UltimateShop-Premium | Menu, dynamic price, limits, apply settings, sell all and more | 1.17 - 1.20",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31351.jpg?1697623755",
-        "url": "https://www.blackspigot.com/downloads/ultimateshop-premium-menu-dynamic-price-limits-apply-settings-sell-all-and-more-1-17-1-20.31351/"
-    },
-    {
-        "name": "SurvivalGames",
-        "image": "https://www.blackspigot.com/data/resource_icons/22/22204.jpg?1634233179",
-        "url": "https://www.blackspigot.com/downloads/survivalgames.22204/"
-    },
-    {
         "name": "Spartan Anti-Cheat | Advanced Cheat Detection | Hack Blocker | 1.7 - 1.20.4",
         "image": "https://www.blackspigot.com/data/resource_icons/22/22941.jpg?1702570650",
         "url": "https://www.blackspigot.com/downloads/spartan-anti-cheat-advanced-cheat-detection-hack-blocker-1-7-1-20-4.22941/"
@@ -583,36 +613,6 @@
         "name": "\u2b50AdvancedChests\u2b50 | Unlimited sizes | Holograms | \u2728Upgrades | \u2705Sells | \u26a1Sorter | \u2604\ufe0f Compressor",
         "image": "https://www.blackspigot.com/data/resource_icons/16/16580.jpg?1592573595",
         "url": "https://www.blackspigot.com/downloads/advancedchests-unlimited-sizes-holograms-upgrades-sells-sorter-compressor.16580/"
-    },
-    {
-        "name": "\u2b50\ufe0fTERRITORY | NEW LAND CLAIMING PLUGIN",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33010.jpg?1735971794",
-        "url": "https://www.blackspigot.com/downloads/territory-new-land-claiming-plugin.33010/"
-    },
-    {
-        "name": "[1.13-1.18] Races of Thana\u30fbCustom GUI, Attributes, Day &amp; Night Effects and more!",
-        "image": "https://www.blackspigot.com/data/resource_icons/13/13214.jpg?1645234749",
-        "url": "https://www.blackspigot.com/downloads/1-13-1-18-races-of-thana_custom-gui-attributes-day-night-effects-and-more.13214/"
-    },
-    {
-        "name": "EnchantmentSlots | Add enchantment slot feature to your server! | 1.17 - 1.20",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31352.jpg?1697623830",
-        "url": "https://www.blackspigot.com/downloads/enchantmentslots-add-enchantment-slot-feature-to-your-server-1-17-1-20.31352/"
-    },
-    {
-        "name": "EconomyShopGUI - SellStick | SellWand",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31344.jpg?1697329097",
-        "url": "https://www.blackspigot.com/downloads/economyshopgui-sellstick-sellwand.31344/"
-    },
-    {
-        "name": "StatTrackers \u2b55 EULA-Friendly Cosmetic \u2705 StatTrak in Minecraft \u2728 Intuitive GUI",
-        "image": "https://www.blackspigot.com/data/resource_icons/23/23120.jpg?1647368405",
-        "url": "https://www.blackspigot.com/downloads/stattrackers-eula-friendly-cosmetic-stattrak-in-minecraft-intuitive-gui.23120/"
-    },
-    {
-        "name": "Actions \u2b55 Customize your server \u2705 Create Scripts, Perks, Automations \u2728 50+ Plugin Hooks",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33105.jpg?1737498202",
-        "url": "https://www.blackspigot.com/downloads/actions-customize-your-server-create-scripts-perks-automations-50-plugin-hooks.33105/"
     },
     {
         "name": "Nexo | Custom Blocks, Items, Furniture, Emotes &amp; ResourcePack-Manager [1.20.4-1.21.4]",
