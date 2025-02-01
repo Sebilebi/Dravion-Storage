@@ -1,5 +1,10 @@
 [
     {
+        "name": "Lands - Land claim plugin Grief Prevention Protection GUI Management Nations Wars - 1.20 Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/11/11354.jpg?1552058579",
+        "url": "https://www.blackspigot.com/downloads/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-20-support.11354/"
+    },
+    {
         "name": "Upgradeable Hoppers - Fast Hopper Plugin Link Containers Item Transfer Suction Chunk - 1.20 Support",
         "image": "https://www.blackspigot.com/data/resource_icons/15/15400.jpg?1585634616",
         "url": "https://www.blackspigot.com/downloads/upgradeable-hoppers-fast-hopper-plugin-link-containers-item-transfer-suction-chunk-1-20-support.15400/"
@@ -28,11 +33,6 @@
         "name": "RoseLoot",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33123.jpg?1737922698",
         "url": "https://www.blackspigot.com/downloads/roseloot.33123/"
-    },
-    {
-        "name": "Lands - Land claim plugin Grief Prevention Protection GUI Management Nations Wars - 1.20 Support",
-        "image": "https://www.blackspigot.com/data/resource_icons/11/11354.jpg?1552058579",
-        "url": "https://www.blackspigot.com/downloads/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-20-support.11354/"
     },
     {
         "name": "Force Resourcepacks",
@@ -145,6 +145,31 @@
         "url": "https://www.blackspigot.com/downloads/factionsworld-perfect-factions-terrain.33122/"
     },
     {
+        "name": "Vanilla Improvements: Improved Zombies",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33025.jpg?1736489998",
+        "url": "https://www.blackspigot.com/downloads/vanilla-improvements-improved-zombies.33025/"
+    },
+    {
+        "name": "Superhero Pets! #2 - Dogpool",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32999.jpg?1735760559",
+        "url": "https://www.blackspigot.com/downloads/superhero-pets-2-dogpool.32999/"
+    },
+    {
+        "name": "Sweet Pets - Weasels",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33002.jpg?1735841627",
+        "url": "https://www.blackspigot.com/downloads/sweet-pets-weasels.33002/"
+    },
+    {
+        "name": "Sweet Pets - Foxes",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33003.jpg?1735841699",
+        "url": "https://www.blackspigot.com/downloads/sweet-pets-foxes.33003/"
+    },
+    {
+        "name": "Cazfps Hamster pets",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33006.jpg?1735842083",
+        "url": "https://www.blackspigot.com/downloads/cazfps-hamster-pets.33006/"
+    },
+    {
         "name": "Cubees Sorcery Bundle",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33061.jpg?1737050890",
         "url": "https://www.blackspigot.com/downloads/cubees-sorcery-bundle.33061/"
@@ -168,31 +193,6 @@
         "name": "Elemental Books",
         "image": "https://www.blackspigot.com/data/resource_icons/32/32977.jpg?1735399459",
         "url": "https://www.blackspigot.com/downloads/elemental-books.32977/"
-    },
-    {
-        "name": "Cazfps Hamster pets",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33006.jpg?1735842083",
-        "url": "https://www.blackspigot.com/downloads/cazfps-hamster-pets.33006/"
-    },
-    {
-        "name": "Sweet Pets - Foxes",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33003.jpg?1735841699",
-        "url": "https://www.blackspigot.com/downloads/sweet-pets-foxes.33003/"
-    },
-    {
-        "name": "Sweet Pets - Weasels",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33002.jpg?1735841627",
-        "url": "https://www.blackspigot.com/downloads/sweet-pets-weasels.33002/"
-    },
-    {
-        "name": "Superhero Pets! #2 - Dogpool",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32999.jpg?1735760559",
-        "url": "https://www.blackspigot.com/downloads/superhero-pets-2-dogpool.32999/"
-    },
-    {
-        "name": "Vanilla Improvements: Improved Zombies",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33025.jpg?1736489998",
-        "url": "https://www.blackspigot.com/downloads/vanilla-improvements-improved-zombies.33025/"
     },
     {
         "name": "RPG Class Legends | Terramancer",
@@ -290,6 +290,76 @@
         "url": "https://www.blackspigot.com/downloads/distant-worlds-alien-lava-fauna.32983/"
     },
     {
+        "name": "AntiCheatAddition",
+        "image": "https://www.blackspigot.com/data/resource_icons/2/2650.jpg?1647462187",
+        "url": "https://www.blackspigot.com/downloads/anticheataddition.2650/"
+    },
+    {
+        "name": "\u2b55 AdvancedSeasons \u2600\ufe0f 4 Seasons Plugin \u2b50 REAL Season Colors without Texture Pack! \u2705",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32557.jpg?1717414683",
+        "url": "https://www.blackspigot.com/downloads/advancedseasons-4-seasons-plugin-real-season-colors-without-texture-pack.32557/"
+    },
+    {
+        "name": "1.13 - 1.19.3 \u2b50 MiniaturePets - Custom Companions \u2b55 Your Own Custom 3D Pets \u2705 30% SALE",
+        "image": "https://www.blackspigot.com/data/resource_icons/28/28576.jpg?1676194220",
+        "url": "https://www.blackspigot.com/downloads/1-13-1-19-3-miniaturepets-custom-companions-your-own-custom-3d-pets-30-sale.28576/"
+    },
+    {
+        "name": "Motels / Hotels | DESCRIPTION UPDATED!",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32793.jpg?1730851182",
+        "url": "https://www.blackspigot.com/downloads/motels-hotels-description-updated.32793/"
+    },
+    {
+        "name": "AxGens | The All-In-One Gens Plugin",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33062.jpg?1737050951",
+        "url": "https://www.blackspigot.com/downloads/axgens-the-all-in-one-gens-plugin.33062/"
+    },
+    {
+        "name": "AxBoosters | All-In-One Booster Plugin v1.0.2",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31595.jpg?1700672392",
+        "url": "https://www.blackspigot.com/downloads/axboosters-all-in-one-booster-plugin-v1-0-2.31595/"
+    },
+    {
+        "name": "ArenaLegends | A League of Legends' Game",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32804.jpg?1730852400",
+        "url": "https://www.blackspigot.com/downloads/arenalegends-a-league-of-legends-game.32804/"
+    },
+    {
+        "name": "\u26a1\ufe0f RecyclerPlus - Recycle everything you don't need 1.2.7",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31573.jpg?1700515433",
+        "url": "https://www.blackspigot.com/downloads/recyclerplus-recycle-everything-you-dont-need-1-2-7.31573/"
+    },
+    {
+        "name": "\u300bElementalGems [1.8-1.20] Gem Shops, Upgrades, Hex Colors &amp; More!\u300a",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32961.jpg?1734713060",
+        "url": "https://www.blackspigot.com/downloads/elementalgems-1-8-1-20-gem-shops-upgrades-hex-colors-more.32961/"
+    },
+    {
+        "name": "Boosters \u2b55 EULA-Friendly Boosters \u2705 Jobs/Skills/Sell Multipliers \u2728 Create your own",
+        "image": "https://www.blackspigot.com/data/resource_icons/25/25109.jpg?1652788009",
+        "url": "https://www.blackspigot.com/downloads/boosters-eula-friendly-boosters-jobs-skills-sell-multipliers-create-your-own.25109/"
+    },
+    {
+        "name": "AnimationsCore",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33117.jpg?1737836299",
+        "url": "https://www.blackspigot.com/downloads/animationscore.33117/"
+    },
+    {
+        "name": "Iridium Enchants [1.8-1.19]",
+        "image": "https://www.blackspigot.com/data/resource_icons/28/28635.jpg?1676402226",
+        "url": "https://www.blackspigot.com/downloads/iridium-enchants-1-8-1-19.28635/"
+    },
+    {
+        "name": "Iris - Dimension Engine",
+        "image": "https://www.blackspigot.com/data/resource_icons/28/28529.jpg?1675794453",
+        "url": "https://www.blackspigot.com/downloads/iris-dimension-engine.28529/"
+    },
+    {
+        "name": "AxQuestBoard | Competitive Quests Plugin",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33026.jpg?1736490065",
+        "url": "https://www.blackspigot.com/downloads/axquestboard-competitive-quests-plugin.33026/"
+    },
+    {
         "name": "SurvivalGames",
         "image": "https://www.blackspigot.com/data/resource_icons/22/22204.jpg?1634233179",
         "url": "https://www.blackspigot.com/downloads/survivalgames.22204/"
@@ -348,76 +418,6 @@
         "name": "\u2728| KatsuAnimation - Play gifs in minecraft",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33041.jpg?1736629823",
         "url": "https://www.blackspigot.com/downloads/katsuanimation-play-gifs-in-minecraft.33041/"
-    },
-    {
-        "name": "AxQuestBoard | Competitive Quests Plugin",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33026.jpg?1736490065",
-        "url": "https://www.blackspigot.com/downloads/axquestboard-competitive-quests-plugin.33026/"
-    },
-    {
-        "name": "Iris - Dimension Engine",
-        "image": "https://www.blackspigot.com/data/resource_icons/28/28529.jpg?1675794453",
-        "url": "https://www.blackspigot.com/downloads/iris-dimension-engine.28529/"
-    },
-    {
-        "name": "Iridium Enchants [1.8-1.19]",
-        "image": "https://www.blackspigot.com/data/resource_icons/28/28635.jpg?1676402226",
-        "url": "https://www.blackspigot.com/downloads/iridium-enchants-1-8-1-19.28635/"
-    },
-    {
-        "name": "AnimationsCore",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33117.jpg?1737836299",
-        "url": "https://www.blackspigot.com/downloads/animationscore.33117/"
-    },
-    {
-        "name": "Boosters \u2b55 EULA-Friendly Boosters \u2705 Jobs/Skills/Sell Multipliers \u2728 Create your own",
-        "image": "https://www.blackspigot.com/data/resource_icons/25/25109.jpg?1652788009",
-        "url": "https://www.blackspigot.com/downloads/boosters-eula-friendly-boosters-jobs-skills-sell-multipliers-create-your-own.25109/"
-    },
-    {
-        "name": "\u300bElementalGems [1.8-1.20] Gem Shops, Upgrades, Hex Colors &amp; More!\u300a",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32961.jpg?1734713060",
-        "url": "https://www.blackspigot.com/downloads/elementalgems-1-8-1-20-gem-shops-upgrades-hex-colors-more.32961/"
-    },
-    {
-        "name": "\u26a1\ufe0f RecyclerPlus - Recycle everything you don't need 1.2.7",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31573.jpg?1700515433",
-        "url": "https://www.blackspigot.com/downloads/recyclerplus-recycle-everything-you-dont-need-1-2-7.31573/"
-    },
-    {
-        "name": "ArenaLegends | A League of Legends' Game",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32804.jpg?1730852400",
-        "url": "https://www.blackspigot.com/downloads/arenalegends-a-league-of-legends-game.32804/"
-    },
-    {
-        "name": "AxBoosters | All-In-One Booster Plugin v1.0.2",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31595.jpg?1700672392",
-        "url": "https://www.blackspigot.com/downloads/axboosters-all-in-one-booster-plugin-v1-0-2.31595/"
-    },
-    {
-        "name": "AxGens | The All-In-One Gens Plugin",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33062.jpg?1737050951",
-        "url": "https://www.blackspigot.com/downloads/axgens-the-all-in-one-gens-plugin.33062/"
-    },
-    {
-        "name": "Motels / Hotels | DESCRIPTION UPDATED!",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32793.jpg?1730851182",
-        "url": "https://www.blackspigot.com/downloads/motels-hotels-description-updated.32793/"
-    },
-    {
-        "name": "1.13 - 1.19.3 \u2b50 MiniaturePets - Custom Companions \u2b55 Your Own Custom 3D Pets \u2705 30% SALE",
-        "image": "https://www.blackspigot.com/data/resource_icons/28/28576.jpg?1676194220",
-        "url": "https://www.blackspigot.com/downloads/1-13-1-19-3-miniaturepets-custom-companions-your-own-custom-3d-pets-30-sale.28576/"
-    },
-    {
-        "name": "\u2b55 AdvancedSeasons \u2600\ufe0f 4 Seasons Plugin \u2b50 REAL Season Colors without Texture Pack! \u2705",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32557.jpg?1717414683",
-        "url": "https://www.blackspigot.com/downloads/advancedseasons-4-seasons-plugin-real-season-colors-without-texture-pack.32557/"
-    },
-    {
-        "name": "AntiCheatAddition",
-        "image": "https://www.blackspigot.com/data/resource_icons/2/2650.jpg?1647462187",
-        "url": "https://www.blackspigot.com/downloads/anticheataddition.2650/"
     },
     {
         "name": "Cinematic Studio | Cutscenes Creation Tool",
