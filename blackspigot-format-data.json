@@ -1,5 +1,20 @@
 [
     {
+        "name": "Model Engine 4 Leak\u2014Ultimate Entity Model Manager [1.19.4 - 1.20.1]",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31317.jpg?1702185354",
+        "url": "https://www.blackspigot.com/downloads/model-engine-4-leak-ultimate-entity-model-manager-1-19-4-1-20-1.31317/"
+    },
+    {
+        "name": "Force Resourcepacks",
+        "image": "https://www.blackspigot.com/data/resource_icons/9/9189.jpg?1535746105",
+        "url": "https://www.blackspigot.com/downloads/force-resourcepacks.9189/"
+    },
+    {
+        "name": "RoseLoot",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33123.jpg?1737922698",
+        "url": "https://www.blackspigot.com/downloads/roseloot.33123/"
+    },
+    {
         "name": "KeyBackpacks [1.8-1.19] 1.1.1",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33135.jpg?1738531871",
         "url": "https://www.blackspigot.com/downloads/keybackpacks-1-8-1-19-1-1-1.33135/"
@@ -33,16 +48,6 @@
         "name": "Zombies Minigame | [1.8-1.19.2]",
         "image": "https://www.blackspigot.com/data/resource_icons/26/26788.jpg?1667647584",
         "url": "https://www.blackspigot.com/downloads/zombies-minigame-1-8-1-19-2.26788/"
-    },
-    {
-        "name": "RoseLoot",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33123.jpg?1737922698",
-        "url": "https://www.blackspigot.com/downloads/roseloot.33123/"
-    },
-    {
-        "name": "Force Resourcepacks",
-        "image": "https://www.blackspigot.com/data/resource_icons/9/9189.jpg?1535746105",
-        "url": "https://www.blackspigot.com/downloads/force-resourcepacks.9189/"
     },
     {
         "name": "HMCWraps",
@@ -135,9 +140,19 @@
         "url": "https://www.blackspigot.com/downloads/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.14773/"
     },
     {
-        "name": "Herochat: Minecraft Chat Channels (50% off for 1.12 release!)",
-        "image": "https://www.blackspigot.com/data/resource_icons/5/5544.jpg?1506650530",
-        "url": "https://www.blackspigot.com/downloads/herochat-minecraft-chat-channels-50-off-for-1-12-release.5544/"
+        "name": "Elemental Books",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32977.jpg?1735399459",
+        "url": "https://www.blackspigot.com/downloads/elemental-books.32977/"
+    },
+    {
+        "name": "Superhero Pets! #2 - Dogpool",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32999.jpg?1735760559",
+        "url": "https://www.blackspigot.com/downloads/superhero-pets-2-dogpool.32999/"
+    },
+    {
+        "name": "Vanilla Improvements: Improved Zombies",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33025.jpg?1736489998",
+        "url": "https://www.blackspigot.com/downloads/vanilla-improvements-improved-zombies.33025/"
     },
     {
         "name": "Cazfps Hamster pets",
@@ -173,21 +188,6 @@
         "name": "Superhero Pets! #1 - Headpool",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33001.jpg?1735760718",
         "url": "https://www.blackspigot.com/downloads/superhero-pets-1-headpool.33001/"
-    },
-    {
-        "name": "Vanilla Improvements: Improved Zombies",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33025.jpg?1736489998",
-        "url": "https://www.blackspigot.com/downloads/vanilla-improvements-improved-zombies.33025/"
-    },
-    {
-        "name": "Superhero Pets! #2 - Dogpool",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32999.jpg?1735760559",
-        "url": "https://www.blackspigot.com/downloads/superhero-pets-2-dogpool.32999/"
-    },
-    {
-        "name": "Elemental Books",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32977.jpg?1735399459",
-        "url": "https://www.blackspigot.com/downloads/elemental-books.32977/"
     },
     {
         "name": "RPG Class Legends | Terramancer",
@@ -285,6 +285,156 @@
         "url": "https://www.blackspigot.com/downloads/distant-worlds-alien-lava-fauna.32983/"
     },
     {
+        "name": "EcoEnchants \u2604\ufe0f Create Custom Enchants \u2b55 230+ Premade Enchantments \u2728 Essentials/CMI Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/17/17362.jpg?1645588466",
+        "url": "https://www.blackspigot.com/downloads/ecoenchants-create-custom-enchants-230-premade-enchantments-essentials-cmi-support.17362/"
+    },
+    {
+        "name": "EcoMobs \u2b55 Create Custom Mobs \u2705 Custom Mob AI \u2728 Natural Spawns, Custom Model Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32135.jpg?1704924253",
+        "url": "https://www.blackspigot.com/downloads/ecomobs-create-custom-mobs-custom-mob-ai-natural-spawns-custom-model-support.32135/"
+    },
+    {
+        "name": "Talismans \u2604\ufe0f Create Custom Talismans \u2b55 Skyblock-Style Passive Buffs \u2728 Crafting, Reforging",
+        "image": "https://www.blackspigot.com/data/resource_icons/28/28799.jpg?1677225975",
+        "url": "https://www.blackspigot.com/downloads/talismans-create-custom-talismans-skyblock-style-passive-buffs-crafting-reforging.28799/"
+    },
+    {
+        "name": "StatTrackers \u2b55 EULA-Friendly Cosmetic \u2705 StatTrak in Minecraft \u2728 Intuitive GUI",
+        "image": "https://www.blackspigot.com/data/resource_icons/23/23120.jpg?1647368405",
+        "url": "https://www.blackspigot.com/downloads/stattrackers-eula-friendly-cosmetic-stattrak-in-minecraft-intuitive-gui.23120/"
+    },
+    {
+        "name": "\u23f3 EcoArmor \u2b55 Create Custom Armor \u2705 Premade Sets \u2728 Upgrades, Crafting, Custom Textures",
+        "image": "https://www.blackspigot.com/data/resource_icons/28/28530.jpg?1675795038",
+        "url": "https://www.blackspigot.com/downloads/ecoarmor-create-custom-armor-premade-sets-upgrades-crafting-custom-textures.28530/"
+    },
+    {
+        "name": "EcoItems \u2b55 Create Custom Items \u2705 Weapons, Armors, Tools, Charms \u2728 Item Levels, Rarities",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33104.jpg?1737494741",
+        "url": "https://www.blackspigot.com/downloads/ecoitems-create-custom-items-weapons-armors-tools-charms-item-levels-rarities.33104/"
+    },
+    {
+        "name": "Reforges \u2b55 Create Custom Reforges \u2705 Item Modfiers \u2728 Reforge Stones, GUI, NPC Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33116.jpg?1737830576",
+        "url": "https://www.blackspigot.com/downloads/reforges-create-custom-reforges-item-modfiers-reforge-stones-gui-npc-support.33116/"
+    },
+    {
+        "name": "EcoSkills \u2b55 Addictive MMORPG Progression \u2705 Create custom effects \u2728 Levelling, Stats",
+        "image": "https://www.blackspigot.com/data/resource_icons/25/25102.jpg?1652787422",
+        "url": "https://www.blackspigot.com/downloads/ecoskills-addictive-mmorpg-progression-create-custom-effects-levelling-stats.25102/"
+    },
+    {
+        "name": "Boosters \u2b55 EULA-Friendly Boosters \u2705 Jobs/Skills/Sell Multipliers \u2728 Create your own",
+        "image": "https://www.blackspigot.com/data/resource_icons/25/25109.jpg?1652788009",
+        "url": "https://www.blackspigot.com/downloads/boosters-eula-friendly-boosters-jobs-skills-sell-multipliers-create-your-own.25109/"
+    },
+    {
+        "name": "EcoPets \u2b55 Create Custom Pets \u2705 Premade Pets \u2728 Levelling, Abilities, Custom Textures",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32294.jpg?1708304869",
+        "url": "https://www.blackspigot.com/downloads/ecopets-create-custom-pets-premade-pets-levelling-abilities-custom-textures.32294/"
+    },
+    {
+        "name": "EcoJobs \u2b55 Powerful Employment System \u2705 Create custom jobs \u2728 Levelling, Effects",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32086.jpg?1703786386",
+        "url": "https://www.blackspigot.com/downloads/ecojobs-powerful-employment-system-create-custom-jobs-levelling-effects.32086/"
+    },
+    {
+        "name": "Actions \u2b55 Customize your server \u2705 Create Scripts, Perks, Automations \u2728 50+ Plugin Hooks",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33105.jpg?1737498202",
+        "url": "https://www.blackspigot.com/downloads/actions-customize-your-server-create-scripts-perks-automations-50-plugin-hooks.33105/"
+    },
+    {
+        "name": "EcoQuests \u2b55 Powerful Quests System \u2705 Fully GUI Based \u2728 Quest Trees, Daily Quests, MySQL",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33106.jpg?1737545978",
+        "url": "https://www.blackspigot.com/downloads/ecoquests-powerful-quests-system-fully-gui-based-quest-trees-daily-quests-mysql.33106/"
+    },
+    {
+        "name": "EcoShop \u2b55 Powerful Server Shops \u2705 Multiple Currency Support \u2728 Custom Items",
+        "image": "https://www.blackspigot.com/data/resource_icons/27/27719.jpg?1671330527",
+        "url": "https://www.blackspigot.com/downloads/ecoshop-powerful-server-shops-multiple-currency-support-custom-items.27719/"
+    },
+    {
+        "name": "EcoScrolls \u2b55 Create Item Modifiers \u2705 GUI, Prices, Drag-and-Drop \u2728 Custom Item Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33103.jpg?1737493848",
+        "url": "https://www.blackspigot.com/downloads/ecoscrolls-create-item-modifiers-gui-prices-drag-and-drop-custom-item-support.33103/"
+    },
+    {
+        "name": "Board Games [GUI &amp; MAP GAMES] [27 GAMES] [Stats, Tops, Records...] [1.8-1.19] (Archive)",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33102.jpg?1737457882",
+        "url": "https://www.blackspigot.com/downloads/board-games-gui-map-games-27-games-stats-tops-records-1-8-1-19-archive.33102/"
+    },
+    {
+        "name": "AnvilEnhanced Premium 1.16.5 - 1.20.2",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32040.jpg?1703369629",
+        "url": "https://www.blackspigot.com/downloads/anvilenhanced-premium-1-16-5-1-20-2.32040/"
+    },
+    {
+        "name": "Trade+ \u2731 Trade items, money, tokens, protection blocks and more in an elegant GUI",
+        "image": "https://www.blackspigot.com/data/resource_icons/11/11466.jpg?1553161565",
+        "url": "https://www.blackspigot.com/downloads/trade-trade-items-money-tokens-protection-blocks-and-more-in-an-elegant-gui.11466/"
+    },
+    {
+        "name": "AxQuestBoard | Competitive Quests Plugin",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33026.jpg?1736490065",
+        "url": "https://www.blackspigot.com/downloads/axquestboard-competitive-quests-plugin.33026/"
+    },
+    {
+        "name": "Iris - Dimension Engine",
+        "image": "https://www.blackspigot.com/data/resource_icons/28/28529.jpg?1675794453",
+        "url": "https://www.blackspigot.com/downloads/iris-dimension-engine.28529/"
+    },
+    {
+        "name": "ArenaLegends | A League of Legends' Game",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32804.jpg?1730852400",
+        "url": "https://www.blackspigot.com/downloads/arenalegends-a-league-of-legends-game.32804/"
+    },
+    {
+        "name": "AxBoosters | All-In-One Booster Plugin v1.0.2",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31595.jpg?1700672392",
+        "url": "https://www.blackspigot.com/downloads/axboosters-all-in-one-booster-plugin-v1-0-2.31595/"
+    },
+    {
+        "name": "AxGens | The All-In-One Gens Plugin",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33062.jpg?1737050951",
+        "url": "https://www.blackspigot.com/downloads/axgens-the-all-in-one-gens-plugin.33062/"
+    },
+    {
+        "name": "Motels / Hotels | DESCRIPTION UPDATED!",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32793.jpg?1730851182",
+        "url": "https://www.blackspigot.com/downloads/motels-hotels-description-updated.32793/"
+    },
+    {
+        "name": "\u2708\ufe0f UltimateFlightWand | Custom Flight Powers For Every Player",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33011.jpg?1735971910",
+        "url": "https://www.blackspigot.com/downloads/ultimateflightwand-custom-flight-powers-for-every-player.33011/"
+    },
+    {
+        "name": "\u2b50\ufe0fTERRITORY | NEW LAND CLAIMING PLUGIN",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33010.jpg?1735971794",
+        "url": "https://www.blackspigot.com/downloads/territory-new-land-claiming-plugin.33010/"
+    },
+    {
+        "name": "\u2705 DeluxeUpgrade \u2705 [ ItemsAdder, Oraxen and Vanilla!] \u2b55 [1.16 - 1.21 ] \u2b55",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33009.jpg?1735971700",
+        "url": "https://www.blackspigot.com/downloads/deluxeupgrade-itemsadder-oraxen-and-vanilla-1-16-1-21.33009/"
+    },
+    {
+        "name": "\u2728| KatsuAnimation - Play gifs in minecraft",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33041.jpg?1736629823",
+        "url": "https://www.blackspigot.com/downloads/katsuanimation-play-gifs-in-minecraft.33041/"
+    },
+    {
+        "name": "\u2728Wandering Collectors \u2728 | Despawned Items Trader | Remake",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32043.jpg?1703370156",
+        "url": "https://www.blackspigot.com/downloads/wandering-collectors-despawned-items-trader-remake.32043/"
+    },
+    {
+        "name": "Herochat: Minecraft Chat Channels (50% off for 1.12 release!)",
+        "image": "https://www.blackspigot.com/data/resource_icons/5/5544.jpg?1506650530",
+        "url": "https://www.blackspigot.com/downloads/herochat-minecraft-chat-channels-50-off-for-1-12-release.5544/"
+    },
+    {
         "name": "FeatherBoard - OFFICIAL BLACKSPIGOT VERSION",
         "image": "https://www.blackspigot.com/data/resource_icons/0/13.jpg?1462504342",
         "url": "https://www.blackspigot.com/downloads/featherboard-official-blackspigot-version.13/"
@@ -310,26 +460,6 @@
         "url": "https://www.blackspigot.com/downloads/1-13-1-19-3-miniaturepets-custom-companions-your-own-custom-3d-pets-30-sale.28576/"
     },
     {
-        "name": "Motels / Hotels | DESCRIPTION UPDATED!",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32793.jpg?1730851182",
-        "url": "https://www.blackspigot.com/downloads/motels-hotels-description-updated.32793/"
-    },
-    {
-        "name": "AxGens | The All-In-One Gens Plugin",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33062.jpg?1737050951",
-        "url": "https://www.blackspigot.com/downloads/axgens-the-all-in-one-gens-plugin.33062/"
-    },
-    {
-        "name": "AxBoosters | All-In-One Booster Plugin v1.0.2",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31595.jpg?1700672392",
-        "url": "https://www.blackspigot.com/downloads/axboosters-all-in-one-booster-plugin-v1-0-2.31595/"
-    },
-    {
-        "name": "ArenaLegends | A League of Legends' Game",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32804.jpg?1730852400",
-        "url": "https://www.blackspigot.com/downloads/arenalegends-a-league-of-legends-game.32804/"
-    },
-    {
         "name": "\u26a1\ufe0f RecyclerPlus - Recycle everything you don't need 1.2.7",
         "image": "https://www.blackspigot.com/data/resource_icons/31/31573.jpg?1700515433",
         "url": "https://www.blackspigot.com/downloads/recyclerplus-recycle-everything-you-dont-need-1-2-7.31573/"
@@ -340,11 +470,6 @@
         "url": "https://www.blackspigot.com/downloads/elementalgems-1-8-1-20-gem-shops-upgrades-hex-colors-more.32961/"
     },
     {
-        "name": "Boosters \u2b55 EULA-Friendly Boosters \u2705 Jobs/Skills/Sell Multipliers \u2728 Create your own",
-        "image": "https://www.blackspigot.com/data/resource_icons/25/25109.jpg?1652788009",
-        "url": "https://www.blackspigot.com/downloads/boosters-eula-friendly-boosters-jobs-skills-sell-multipliers-create-your-own.25109/"
-    },
-    {
         "name": "AnimationsCore",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33117.jpg?1737836299",
         "url": "https://www.blackspigot.com/downloads/animationscore.33117/"
@@ -353,16 +478,6 @@
         "name": "Iridium Enchants [1.8-1.19]",
         "image": "https://www.blackspigot.com/data/resource_icons/28/28635.jpg?1676402226",
         "url": "https://www.blackspigot.com/downloads/iridium-enchants-1-8-1-19.28635/"
-    },
-    {
-        "name": "Iris - Dimension Engine",
-        "image": "https://www.blackspigot.com/data/resource_icons/28/28529.jpg?1675794453",
-        "url": "https://www.blackspigot.com/downloads/iris-dimension-engine.28529/"
-    },
-    {
-        "name": "AxQuestBoard | Competitive Quests Plugin",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33026.jpg?1736490065",
-        "url": "https://www.blackspigot.com/downloads/axquestboard-competitive-quests-plugin.33026/"
     },
     {
         "name": "SurvivalGames",
@@ -385,16 +500,6 @@
         "url": "https://www.blackspigot.com/downloads/prison-core-ultra-prison-core-1-8-1-19-x-all-in-one-solution-for-prison-servers.19543/"
     },
     {
-        "name": "Actions \u2b55 Customize your server \u2705 Create Scripts, Perks, Automations \u2728 50+ Plugin Hooks",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33105.jpg?1737498202",
-        "url": "https://www.blackspigot.com/downloads/actions-customize-your-server-create-scripts-perks-automations-50-plugin-hooks.33105/"
-    },
-    {
-        "name": "StatTrackers \u2b55 EULA-Friendly Cosmetic \u2705 StatTrak in Minecraft \u2728 Intuitive GUI",
-        "image": "https://www.blackspigot.com/data/resource_icons/23/23120.jpg?1647368405",
-        "url": "https://www.blackspigot.com/downloads/stattrackers-eula-friendly-cosmetic-stattrak-in-minecraft-intuitive-gui.23120/"
-    },
-    {
         "name": "EconomyShopGUI - SellStick | SellWand",
         "image": "https://www.blackspigot.com/data/resource_icons/31/31344.jpg?1697329097",
         "url": "https://www.blackspigot.com/downloads/economyshopgui-sellstick-sellwand.31344/"
@@ -410,19 +515,9 @@
         "url": "https://www.blackspigot.com/downloads/1-13-1-18-races-of-thana_custom-gui-attributes-day-night-effects-and-more.13214/"
     },
     {
-        "name": "\u2b50\ufe0fTERRITORY | NEW LAND CLAIMING PLUGIN",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33010.jpg?1735971794",
-        "url": "https://www.blackspigot.com/downloads/territory-new-land-claiming-plugin.33010/"
-    },
-    {
         "name": "\u2705 -25% \u2620\ufe0f HackedServer | MODS &amp; CLIENTS detector 3.0.0 - alpha b",
         "image": "https://www.blackspigot.com/data/resource_icons/8/8054.jpg?1563296499",
         "url": "https://www.blackspigot.com/downloads/25-hackedserver-mods-clients-detector-3-0-0-alpha-b.8054/"
-    },
-    {
-        "name": "\u2728| KatsuAnimation - Play gifs in minecraft",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33041.jpg?1736629823",
-        "url": "https://www.blackspigot.com/downloads/katsuanimation-play-gifs-in-minecraft.33041/"
     },
     {
         "name": "Cinematic Studio | Cutscenes Creation Tool",
@@ -690,11 +785,6 @@
         "url": "https://www.blackspigot.com/downloads/christmas.22886/"
     },
     {
-        "name": "Model Engine 4 Leak\u2014Ultimate Entity Model Manager [1.19.4 - 1.20.1]",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31317.jpg?1702185354",
-        "url": "https://www.blackspigot.com/downloads/model-engine-4-leak-ultimate-entity-model-manager-1-19-4-1-20-1.31317/"
-    },
-    {
         "name": "Helium - Ranks | Tags | Punishments v2.0.0",
         "image": "https://www.blackspigot.com/data/resource_icons/32/32299.jpg?1717543386",
         "url": "https://www.blackspigot.com/downloads/helium-ranks-tags-punishments-v2-0-0.32299/"
@@ -745,11 +835,6 @@
         "url": "https://www.blackspigot.com/downloads/dexterity-rotate-and-resize-blocks-with-ease-no-dependencies-add-custom-objects-and-furniture.33012/"
     },
     {
-        "name": "\u23f3 EcoArmor \u2b55 Create Custom Armor \u2705 Premade Sets \u2728 Upgrades, Crafting, Custom Textures",
-        "image": "https://www.blackspigot.com/data/resource_icons/28/28530.jpg?1675795038",
-        "url": "https://www.blackspigot.com/downloads/ecoarmor-create-custom-armor-premade-sets-upgrades-crafting-custom-textures.28530/"
-    },
-    {
         "name": "Specialized Crates \u2b50 25 Premade Animations \u2705 Create More Animations Yourself",
         "image": "https://www.blackspigot.com/data/resource_icons/11/11896.jpg?1703283177",
         "url": "https://www.blackspigot.com/downloads/specialized-crates-25-premade-animations-create-more-animations-yourself.11896/"
@@ -775,26 +860,6 @@
         "url": "https://www.blackspigot.com/downloads/stackresize.28528/"
     },
     {
-        "name": "Trade+ \u2731 Trade items, money, tokens, protection blocks and more in an elegant GUI",
-        "image": "https://www.blackspigot.com/data/resource_icons/11/11466.jpg?1553161565",
-        "url": "https://www.blackspigot.com/downloads/trade-trade-items-money-tokens-protection-blocks-and-more-in-an-elegant-gui.11466/"
-    },
-    {
-        "name": "EcoSkills \u2b55 Addictive MMORPG Progression \u2705 Create custom effects \u2728 Levelling, Stats",
-        "image": "https://www.blackspigot.com/data/resource_icons/25/25102.jpg?1652787422",
-        "url": "https://www.blackspigot.com/downloads/ecoskills-addictive-mmorpg-progression-create-custom-effects-levelling-stats.25102/"
-    },
-    {
-        "name": "EcoQuests \u2b55 Powerful Quests System \u2705 Fully GUI Based \u2728 Quest Trees, Daily Quests, MySQL",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33106.jpg?1737545978",
-        "url": "https://www.blackspigot.com/downloads/ecoquests-powerful-quests-system-fully-gui-based-quest-trees-daily-quests-mysql.33106/"
-    },
-    {
-        "name": "Reforges \u2b55 Create Custom Reforges \u2705 Item Modfiers \u2728 Reforge Stones, GUI, NPC Support",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33116.jpg?1737830576",
-        "url": "https://www.blackspigot.com/downloads/reforges-create-custom-reforges-item-modfiers-reforge-stones-gui-npc-support.33116/"
-    },
-    {
         "name": "ShopGUI+ [1.8-1.19]",
         "image": "https://www.blackspigot.com/data/resource_icons/28/28579.jpg?1676194420",
         "url": "https://www.blackspigot.com/downloads/shopgui-1-8-1-19.28579/"
@@ -813,46 +878,6 @@
         "name": "EcoCrates \u2b55 Create Crates Easily \u2705 Custom Item Support \u2728 Import Crates",
         "image": "https://www.blackspigot.com/data/resource_icons/25/25110.jpg?1652788086",
         "url": "https://www.blackspigot.com/downloads/ecocrates-create-crates-easily-custom-item-support-import-crates.25110/"
-    },
-    {
-        "name": "EcoEnchants \u2604\ufe0f Create Custom Enchants \u2b55 230+ Premade Enchantments \u2728 Essentials/CMI Support",
-        "image": "https://www.blackspigot.com/data/resource_icons/17/17362.jpg?1645588466",
-        "url": "https://www.blackspigot.com/downloads/ecoenchants-create-custom-enchants-230-premade-enchantments-essentials-cmi-support.17362/"
-    },
-    {
-        "name": "EcoMobs \u2b55 Create Custom Mobs \u2705 Custom Mob AI \u2728 Natural Spawns, Custom Model Support",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32135.jpg?1704924253",
-        "url": "https://www.blackspigot.com/downloads/ecomobs-create-custom-mobs-custom-mob-ai-natural-spawns-custom-model-support.32135/"
-    },
-    {
-        "name": "Talismans \u2604\ufe0f Create Custom Talismans \u2b55 Skyblock-Style Passive Buffs \u2728 Crafting, Reforging",
-        "image": "https://www.blackspigot.com/data/resource_icons/28/28799.jpg?1677225975",
-        "url": "https://www.blackspigot.com/downloads/talismans-create-custom-talismans-skyblock-style-passive-buffs-crafting-reforging.28799/"
-    },
-    {
-        "name": "EcoItems \u2b55 Create Custom Items \u2705 Weapons, Armors, Tools, Charms \u2728 Item Levels, Rarities",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33104.jpg?1737494741",
-        "url": "https://www.blackspigot.com/downloads/ecoitems-create-custom-items-weapons-armors-tools-charms-item-levels-rarities.33104/"
-    },
-    {
-        "name": "EcoPets \u2b55 Create Custom Pets \u2705 Premade Pets \u2728 Levelling, Abilities, Custom Textures",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32294.jpg?1708304869",
-        "url": "https://www.blackspigot.com/downloads/ecopets-create-custom-pets-premade-pets-levelling-abilities-custom-textures.32294/"
-    },
-    {
-        "name": "EcoJobs \u2b55 Powerful Employment System \u2705 Create custom jobs \u2728 Levelling, Effects",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32086.jpg?1703786386",
-        "url": "https://www.blackspigot.com/downloads/ecojobs-powerful-employment-system-create-custom-jobs-levelling-effects.32086/"
-    },
-    {
-        "name": "EcoShop \u2b55 Powerful Server Shops \u2705 Multiple Currency Support \u2728 Custom Items",
-        "image": "https://www.blackspigot.com/data/resource_icons/27/27719.jpg?1671330527",
-        "url": "https://www.blackspigot.com/downloads/ecoshop-powerful-server-shops-multiple-currency-support-custom-items.27719/"
-    },
-    {
-        "name": "EcoScrolls \u2b55 Create Item Modifiers \u2705 GUI, Prices, Drag-and-Drop \u2728 Custom Item Support",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33103.jpg?1737493848",
-        "url": "https://www.blackspigot.com/downloads/ecoscrolls-create-item-modifiers-gui-prices-drag-and-drop-custom-item-support.33103/"
     },
     {
         "name": "EcoBits \u2b55 Create custom currencies \u2705 Improve your monetization \u2728 Supports Shops, MySQL",
