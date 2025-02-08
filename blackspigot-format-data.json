@@ -1,8 +1,8 @@
 [
     {
-        "name": "Force Resourcepacks",
-        "image": "https://www.blackspigot.com/data/resource_icons/9/9189.jpg?1535746105",
-        "url": "https://www.blackspigot.com/downloads/force-resourcepacks.9189/"
+        "name": "Lands - Land claim plugin Grief Prevention Protection GUI Management Nations Wars - 1.20 Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/11/11354.jpg?1552058579",
+        "url": "https://www.blackspigot.com/downloads/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-20-support.11354/"
     },
     {
         "name": "RoseLoot",
@@ -10,19 +10,9 @@
         "url": "https://www.blackspigot.com/downloads/roseloot.33123/"
     },
     {
-        "name": "Lands - Land claim plugin Grief Prevention Protection GUI Management Nations Wars - 1.20 Support",
-        "image": "https://www.blackspigot.com/data/resource_icons/11/11354.jpg?1552058579",
-        "url": "https://www.blackspigot.com/downloads/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-20-support.11354/"
-    },
-    {
-        "name": "\u2728ExtraStorage\u2728 Create virtual storage for your player | Oraxen and ItemsAdder support",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31056.jpg?1695739459",
-        "url": "https://www.blackspigot.com/downloads/extrastorage-create-virtual-storage-for-your-player-oraxen-and-itemsadder-support.31056/"
-    },
-    {
-        "name": "Slayer Weapon Set",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33115.jpg?1737830143",
-        "url": "https://www.blackspigot.com/downloads/slayer-weapon-set.33115/"
+        "name": "Force Resourcepacks",
+        "image": "https://www.blackspigot.com/data/resource_icons/9/9189.jpg?1535746105",
+        "url": "https://www.blackspigot.com/downloads/force-resourcepacks.9189/"
     },
     {
         "name": "Model Engine 4 Leak\u2014Ultimate Entity Model Manager [1.19.4 - 1.20.1]",
@@ -33,6 +23,21 @@
         "name": "KeyBackpacks [1.8-1.19] 1.1.1",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33135.jpg?1738531871",
         "url": "https://www.blackspigot.com/downloads/keybackpacks-1-8-1-19-1-1-1.33135/"
+    },
+    {
+        "name": "MythicMobs Premium | 4 -5 | Version Archive | Dev Builds | 15 different copies",
+        "image": "https://www.blackspigot.com/data/resource_icons/29/29331.jpg?1678528289",
+        "url": "https://www.blackspigot.com/downloads/mythicmobs-premium-4-5-version-archive-dev-builds-15-different-copies.29331/"
+    },
+    {
+        "name": "\u2728ExtraStorage\u2728 Create virtual storage for your player | Oraxen and ItemsAdder support",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31056.jpg?1695739459",
+        "url": "https://www.blackspigot.com/downloads/extrastorage-create-virtual-storage-for-your-player-oraxen-and-itemsadder-support.31056/"
+    },
+    {
+        "name": "Slayer Weapon Set",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33115.jpg?1737830143",
+        "url": "https://www.blackspigot.com/downloads/slayer-weapon-set.33115/"
     },
     {
         "name": "Upgradeable Hoppers - Fast Hopper Plugin Link Containers Item Transfer Suction Chunk - 1.20 Support",
@@ -125,19 +130,164 @@
         "url": "https://www.blackspigot.com/downloads/ore-regenerator-supports-all-blocks-1-8-1-18.15413/"
     },
     {
-        "name": "AnvilEnhanced Premium 1.16.5 - 1.20.2",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32040.jpg?1703369629",
-        "url": "https://www.blackspigot.com/downloads/anvilenhanced-premium-1-16-5-1-20-2.32040/"
+        "name": "Scenes - Butterflies - Environment",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33142.jpg?1738860441",
+        "url": "https://www.blackspigot.com/downloads/scenes-butterflies-environment.33142/"
     },
     {
-        "name": "Trade+ \u2731 Trade items, money, tokens, protection blocks and more in an elegant GUI",
-        "image": "https://www.blackspigot.com/data/resource_icons/11/11466.jpg?1553161565",
-        "url": "https://www.blackspigot.com/downloads/trade-trade-items-money-tokens-protection-blocks-and-more-in-an-elegant-gui.11466/"
+        "name": "Scenes - Pigeons - Environment",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33150.jpg?1738861696",
+        "url": "https://www.blackspigot.com/downloads/scenes-pigeons-environment.33150/"
     },
     {
-        "name": "\u2b55 AdvancedSeasons \u2600\ufe0f 4 Seasons Plugin \u2b50 REAL Season Colors without Texture Pack! \u2705",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32557.jpg?1717414683",
-        "url": "https://www.blackspigot.com/downloads/advancedseasons-4-seasons-plugin-real-season-colors-without-texture-pack.32557/"
+        "name": "Minimalist Glasses Pack",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33146.jpg?1738860732",
+        "url": "https://www.blackspigot.com/downloads/minimalist-glasses-pack.33146/"
+    },
+    {
+        "name": "Misc's Snowy Mobs",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33007.jpg?1735954323",
+        "url": "https://www.blackspigot.com/downloads/miscs-snowy-mobs.33007/"
+    },
+    {
+        "name": "Superhero Pets! #1 - Headpool",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33001.jpg?1735760718",
+        "url": "https://www.blackspigot.com/downloads/superhero-pets-1-headpool.33001/"
+    },
+    {
+        "name": "Elemental Books",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32977.jpg?1735399459",
+        "url": "https://www.blackspigot.com/downloads/elemental-books.32977/"
+    },
+    {
+        "name": "Masky MobVote (Full Edition)",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33149.jpg?1738861578",
+        "url": "https://www.blackspigot.com/downloads/masky-mobvote-full-edition.33149/"
+    },
+    {
+        "name": "Scenes - Blacksmith - NPC",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33148.jpg?1738861398",
+        "url": "https://www.blackspigot.com/downloads/scenes-blacksmith-npc.33148/"
+    },
+    {
+        "name": "| Towers | 50 Towers | 400+ Skills | Defense &amp; Offense |",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33145.jpg?1738860662",
+        "url": "https://www.blackspigot.com/downloads/towers-50-towers-400-skills-defense-offense.33145/"
+    },
+    {
+        "name": "Epic Tooltip",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33144.jpg?1738860579",
+        "url": "https://www.blackspigot.com/downloads/epic-tooltip.33144/"
+    },
+    {
+        "name": "Reddragon Animated Weapon Volume 1",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33143.jpg?1738860517",
+        "url": "https://www.blackspigot.com/downloads/reddragon-animated-weapon-volume-1.33143/"
+    },
+    {
+        "name": "Sonic Pets - Shadow the hedgehog plushie!",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33000.jpg?1735760618",
+        "url": "https://www.blackspigot.com/downloads/sonic-pets-shadow-the-hedgehog-plushie.33000/"
+    },
+    {
+        "name": "Sweet Pets - Foxes",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33003.jpg?1735841699",
+        "url": "https://www.blackspigot.com/downloads/sweet-pets-foxes.33003/"
+    },
+    {
+        "name": "Vanilla Improvements: Improved Zombies",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33025.jpg?1736489998",
+        "url": "https://www.blackspigot.com/downloads/vanilla-improvements-improved-zombies.33025/"
+    },
+    {
+        "name": "Superhero Pets! #2 - Dogpool",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32999.jpg?1735760559",
+        "url": "https://www.blackspigot.com/downloads/superhero-pets-2-dogpool.32999/"
+    },
+    {
+        "name": "Cazfps Hamster pets",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33006.jpg?1735842083",
+        "url": "https://www.blackspigot.com/downloads/cazfps-hamster-pets.33006/"
+    },
+    {
+        "name": "Sweet Pets - Weasels",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33002.jpg?1735841627",
+        "url": "https://www.blackspigot.com/downloads/sweet-pets-weasels.33002/"
+    },
+    {
+        "name": "Cubees Sorcery Bundle",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33061.jpg?1737050890",
+        "url": "https://www.blackspigot.com/downloads/cubees-sorcery-bundle.33061/"
+    },
+    {
+        "name": "RPG Class Legends | Terramancer",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33013.jpg?1735992410",
+        "url": "https://www.blackspigot.com/downloads/rpg-class-legends-terramancer.33013/"
+    },
+    {
+        "name": "RPG Class Legends | Phoenix Hunter [v1.1]",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33027.jpg?1736490297",
+        "url": "https://www.blackspigot.com/downloads/rpg-class-legends-phoenix-hunter-v1-1.33027/"
+    },
+    {
+        "name": "Dynamic Player VFX | Skills, VFX Models and Items",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33063.jpg?1737051041",
+        "url": "https://www.blackspigot.com/downloads/dynamic-player-vfx-skills-vfx-models-and-items.33063/"
+    },
+    {
+        "name": "Nog\u2019s Plushies [Valentines]",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32172.jpg?1705536942",
+        "url": "https://www.blackspigot.com/downloads/nogs-plushies-valentines.32172/"
+    },
+    {
+        "name": "Valentine pack",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32231.jpg?1705942264",
+        "url": "https://www.blackspigot.com/downloads/valentine-pack.32231/"
+    },
+    {
+        "name": "Necros Animated Weapons, Tools and Cosmetics Set (64x)",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33060.jpg?1737050827",
+        "url": "https://www.blackspigot.com/downloads/necros-animated-weapons-tools-and-cosmetics-set-64x.33060/"
+    },
+    {
+        "name": "Spectra Studios | GingerBread Set",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32989.jpg?1735404716",
+        "url": "https://www.blackspigot.com/downloads/spectra-studios-gingerbread-set.32989/"
+    },
+    {
+        "name": "The Crustarax",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33017.jpg?1736488212",
+        "url": "https://www.blackspigot.com/downloads/the-crustarax.33017/"
+    },
+    {
+        "name": "Winter Mobs - Vanilla Rework",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33024.jpg?1736489855",
+        "url": "https://www.blackspigot.com/downloads/winter-mobs-vanilla-rework.33024/"
+    },
+    {
+        "name": "Misc's Crysalon",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33022.jpg?1736488821",
+        "url": "https://www.blackspigot.com/downloads/miscs-crysalon.33022/"
+    },
+    {
+        "name": "Blood Dagger | Class Weapon - Classic Vol. 1",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33020.jpg?1736488555",
+        "url": "https://www.blackspigot.com/downloads/blood-dagger-class-weapon-classic-vol-1.33020/"
+    },
+    {
+        "name": "Nexo | Custom Blocks, Items, Furniture, Emotes &amp; ResourcePack-Manager [1.20.4-1.21.4]",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32993.jpg?1735408396",
+        "url": "https://www.blackspigot.com/downloads/nexo-custom-blocks-items-furniture-emotes-resourcepack-manager-1-20-4-1-21-4.32993/"
+    },
+    {
+        "name": "NextGens - Minecraft Gens Tycoon Plugin",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33147.jpg?1738861278",
+        "url": "https://www.blackspigot.com/downloads/nextgens-minecraft-gens-tycoon-plugin.33147/"
+    },
+    {
+        "name": "EconomyShopGUI - SellStick | SellWand",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31344.jpg?1697329097",
+        "url": "https://www.blackspigot.com/downloads/economyshopgui-sellstick-sellwand.31344/"
     },
     {
         "name": "[1.13-1.18] Races of Thana\u30fbCustom GUI, Attributes, Day &amp; Night Effects and more!",
@@ -145,9 +295,69 @@
         "url": "https://www.blackspigot.com/downloads/1-13-1-18-races-of-thana_custom-gui-attributes-day-night-effects-and-more.13214/"
     },
     {
-        "name": "EconomyShopGUI - SellStick | SellWand",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31344.jpg?1697329097",
-        "url": "https://www.blackspigot.com/downloads/economyshopgui-sellstick-sellwand.31344/"
+        "name": "\u2b55 AdvancedSeasons \u2600\ufe0f 4 Seasons Plugin \u2b50 REAL Season Colors without Texture Pack! \u2705",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32557.jpg?1717414683",
+        "url": "https://www.blackspigot.com/downloads/advancedseasons-4-seasons-plugin-real-season-colors-without-texture-pack.32557/"
+    },
+    {
+        "name": "Trade+ \u2731 Trade items, money, tokens, protection blocks and more in an elegant GUI",
+        "image": "https://www.blackspigot.com/data/resource_icons/11/11466.jpg?1553161565",
+        "url": "https://www.blackspigot.com/downloads/trade-trade-items-money-tokens-protection-blocks-and-more-in-an-elegant-gui.11466/"
+    },
+    {
+        "name": "AnvilEnhanced Premium 1.16.5 - 1.20.2",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32040.jpg?1703369629",
+        "url": "https://www.blackspigot.com/downloads/anvilenhanced-premium-1-16-5-1-20-2.32040/"
+    },
+    {
+        "name": "Board Games [GUI &amp; MAP GAMES] [27 GAMES] [Stats, Tops, Records...] [1.8-1.19] (Archive)",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33102.jpg?1737457882",
+        "url": "https://www.blackspigot.com/downloads/board-games-gui-map-games-27-games-stats-tops-records-1-8-1-19-archive.33102/"
+    },
+    {
+        "name": "AxQuestBoard | Competitive Quests Plugin",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33026.jpg?1736490065",
+        "url": "https://www.blackspigot.com/downloads/axquestboard-competitive-quests-plugin.33026/"
+    },
+    {
+        "name": "Iris - Dimension Engine",
+        "image": "https://www.blackspigot.com/data/resource_icons/28/28529.jpg?1675794453",
+        "url": "https://www.blackspigot.com/downloads/iris-dimension-engine.28529/"
+    },
+    {
+        "name": "\u2728Wandering Collectors \u2728 | Despawned Items Trader | Remake",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32043.jpg?1703370156",
+        "url": "https://www.blackspigot.com/downloads/wandering-collectors-despawned-items-trader-remake.32043/"
+    },
+    {
+        "name": "\u2705 DeluxeUpgrade \u2705 [ ItemsAdder, Oraxen and Vanilla!] \u2b55 [1.16 - 1.21 ] \u2b55",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33009.jpg?1735971700",
+        "url": "https://www.blackspigot.com/downloads/deluxeupgrade-itemsadder-oraxen-and-vanilla-1-16-1-21.33009/"
+    },
+    {
+        "name": "\u2b50\ufe0fTERRITORY | NEW LAND CLAIMING PLUGIN",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33010.jpg?1735971794",
+        "url": "https://www.blackspigot.com/downloads/territory-new-land-claiming-plugin.33010/"
+    },
+    {
+        "name": "Motels / Hotels | DESCRIPTION UPDATED!",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32793.jpg?1730851182",
+        "url": "https://www.blackspigot.com/downloads/motels-hotels-description-updated.32793/"
+    },
+    {
+        "name": "AxGens | The All-In-One Gens Plugin",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33062.jpg?1737050951",
+        "url": "https://www.blackspigot.com/downloads/axgens-the-all-in-one-gens-plugin.33062/"
+    },
+    {
+        "name": "AxBoosters | All-In-One Booster Plugin v1.0.2",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31595.jpg?1700672392",
+        "url": "https://www.blackspigot.com/downloads/axboosters-all-in-one-booster-plugin-v1-0-2.31595/"
+    },
+    {
+        "name": "ArenaLegends | A League of Legends' Game",
+        "image": "https://www.blackspigot.com/data/resource_icons/32/32804.jpg?1730852400",
+        "url": "https://www.blackspigot.com/downloads/arenalegends-a-league-of-legends-game.32804/"
     },
     {
         "name": "EcoEnchants \u2604\ufe0f Create Custom Enchants \u2b55 230+ Premade Enchantments \u2728 Essentials/CMI Support",
@@ -225,154 +435,9 @@
         "url": "https://www.blackspigot.com/downloads/ecoscrolls-create-item-modifiers-gui-prices-drag-and-drop-custom-item-support.33103/"
     },
     {
-        "name": "Board Games [GUI &amp; MAP GAMES] [27 GAMES] [Stats, Tops, Records...] [1.8-1.19] (Archive)",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33102.jpg?1737457882",
-        "url": "https://www.blackspigot.com/downloads/board-games-gui-map-games-27-games-stats-tops-records-1-8-1-19-archive.33102/"
-    },
-    {
-        "name": "AxQuestBoard | Competitive Quests Plugin",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33026.jpg?1736490065",
-        "url": "https://www.blackspigot.com/downloads/axquestboard-competitive-quests-plugin.33026/"
-    },
-    {
-        "name": "Iris - Dimension Engine",
-        "image": "https://www.blackspigot.com/data/resource_icons/28/28529.jpg?1675794453",
-        "url": "https://www.blackspigot.com/downloads/iris-dimension-engine.28529/"
-    },
-    {
-        "name": "ArenaLegends | A League of Legends' Game",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32804.jpg?1730852400",
-        "url": "https://www.blackspigot.com/downloads/arenalegends-a-league-of-legends-game.32804/"
-    },
-    {
-        "name": "AxBoosters | All-In-One Booster Plugin v1.0.2",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31595.jpg?1700672392",
-        "url": "https://www.blackspigot.com/downloads/axboosters-all-in-one-booster-plugin-v1-0-2.31595/"
-    },
-    {
-        "name": "AxGens | The All-In-One Gens Plugin",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33062.jpg?1737050951",
-        "url": "https://www.blackspigot.com/downloads/axgens-the-all-in-one-gens-plugin.33062/"
-    },
-    {
-        "name": "Motels / Hotels | DESCRIPTION UPDATED!",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32793.jpg?1730851182",
-        "url": "https://www.blackspigot.com/downloads/motels-hotels-description-updated.32793/"
-    },
-    {
         "name": "\u2708\ufe0f UltimateFlightWand | Custom Flight Powers For Every Player",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33011.jpg?1735971910",
         "url": "https://www.blackspigot.com/downloads/ultimateflightwand-custom-flight-powers-for-every-player.33011/"
-    },
-    {
-        "name": "\u2b50\ufe0fTERRITORY | NEW LAND CLAIMING PLUGIN",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33010.jpg?1735971794",
-        "url": "https://www.blackspigot.com/downloads/territory-new-land-claiming-plugin.33010/"
-    },
-    {
-        "name": "Elemental Books",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32977.jpg?1735399459",
-        "url": "https://www.blackspigot.com/downloads/elemental-books.32977/"
-    },
-    {
-        "name": "Superhero Pets! #1 - Headpool",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33001.jpg?1735760718",
-        "url": "https://www.blackspigot.com/downloads/superhero-pets-1-headpool.33001/"
-    },
-    {
-        "name": "Sonic Pets - Shadow the hedgehog plushie!",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33000.jpg?1735760618",
-        "url": "https://www.blackspigot.com/downloads/sonic-pets-shadow-the-hedgehog-plushie.33000/"
-    },
-    {
-        "name": "Misc's Snowy Mobs",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33007.jpg?1735954323",
-        "url": "https://www.blackspigot.com/downloads/miscs-snowy-mobs.33007/"
-    },
-    {
-        "name": "Superhero Pets! #2 - Dogpool",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32999.jpg?1735760559",
-        "url": "https://www.blackspigot.com/downloads/superhero-pets-2-dogpool.32999/"
-    },
-    {
-        "name": "Vanilla Improvements: Improved Zombies",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33025.jpg?1736489998",
-        "url": "https://www.blackspigot.com/downloads/vanilla-improvements-improved-zombies.33025/"
-    },
-    {
-        "name": "Cazfps Hamster pets",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33006.jpg?1735842083",
-        "url": "https://www.blackspigot.com/downloads/cazfps-hamster-pets.33006/"
-    },
-    {
-        "name": "Sweet Pets - Foxes",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33003.jpg?1735841699",
-        "url": "https://www.blackspigot.com/downloads/sweet-pets-foxes.33003/"
-    },
-    {
-        "name": "Sweet Pets - Weasels",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33002.jpg?1735841627",
-        "url": "https://www.blackspigot.com/downloads/sweet-pets-weasels.33002/"
-    },
-    {
-        "name": "Cubees Sorcery Bundle",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33061.jpg?1737050890",
-        "url": "https://www.blackspigot.com/downloads/cubees-sorcery-bundle.33061/"
-    },
-    {
-        "name": "RPG Class Legends | Terramancer",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33013.jpg?1735992410",
-        "url": "https://www.blackspigot.com/downloads/rpg-class-legends-terramancer.33013/"
-    },
-    {
-        "name": "RPG Class Legends | Phoenix Hunter [v1.1]",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33027.jpg?1736490297",
-        "url": "https://www.blackspigot.com/downloads/rpg-class-legends-phoenix-hunter-v1-1.33027/"
-    },
-    {
-        "name": "Dynamic Player VFX | Skills, VFX Models and Items",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33063.jpg?1737051041",
-        "url": "https://www.blackspigot.com/downloads/dynamic-player-vfx-skills-vfx-models-and-items.33063/"
-    },
-    {
-        "name": "Nog\u2019s Plushies [Valentines]",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32172.jpg?1705536942",
-        "url": "https://www.blackspigot.com/downloads/nogs-plushies-valentines.32172/"
-    },
-    {
-        "name": "Valentine pack",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32231.jpg?1705942264",
-        "url": "https://www.blackspigot.com/downloads/valentine-pack.32231/"
-    },
-    {
-        "name": "Necros Animated Weapons, Tools and Cosmetics Set (64x)",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33060.jpg?1737050827",
-        "url": "https://www.blackspigot.com/downloads/necros-animated-weapons-tools-and-cosmetics-set-64x.33060/"
-    },
-    {
-        "name": "Spectra Studios | GingerBread Set",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32989.jpg?1735404716",
-        "url": "https://www.blackspigot.com/downloads/spectra-studios-gingerbread-set.32989/"
-    },
-    {
-        "name": "The Crustarax",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33017.jpg?1736488212",
-        "url": "https://www.blackspigot.com/downloads/the-crustarax.33017/"
-    },
-    {
-        "name": "Winter Mobs - Vanilla Rework",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33024.jpg?1736489855",
-        "url": "https://www.blackspigot.com/downloads/winter-mobs-vanilla-rework.33024/"
-    },
-    {
-        "name": "Misc's Crysalon",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33022.jpg?1736488821",
-        "url": "https://www.blackspigot.com/downloads/miscs-crysalon.33022/"
-    },
-    {
-        "name": "Blood Dagger | Class Weapon - Classic Vol. 1",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33020.jpg?1736488555",
-        "url": "https://www.blackspigot.com/downloads/blood-dagger-class-weapon-classic-vol-1.33020/"
     },
     {
         "name": "Ghost Bride",
@@ -430,19 +495,9 @@
         "url": "https://www.blackspigot.com/downloads/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.14773/"
     },
     {
-        "name": "\u2705 DeluxeUpgrade \u2705 [ ItemsAdder, Oraxen and Vanilla!] \u2b55 [1.16 - 1.21 ] \u2b55",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33009.jpg?1735971700",
-        "url": "https://www.blackspigot.com/downloads/deluxeupgrade-itemsadder-oraxen-and-vanilla-1-16-1-21.33009/"
-    },
-    {
         "name": "\u2728| KatsuAnimation - Play gifs in minecraft",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33041.jpg?1736629823",
         "url": "https://www.blackspigot.com/downloads/katsuanimation-play-gifs-in-minecraft.33041/"
-    },
-    {
-        "name": "\u2728Wandering Collectors \u2728 | Despawned Items Trader | Remake",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32043.jpg?1703370156",
-        "url": "https://www.blackspigot.com/downloads/wandering-collectors-despawned-items-trader-remake.32043/"
     },
     {
         "name": "Herochat: Minecraft Chat Channels (50% off for 1.12 release!)",
@@ -713,11 +768,6 @@
         "name": "\u2b50AdvancedChests\u2b50 | Unlimited sizes | Holograms | \u2728Upgrades | \u2705Sells | \u26a1Sorter | \u2604\ufe0f Compressor",
         "image": "https://www.blackspigot.com/data/resource_icons/16/16580.jpg?1592573595",
         "url": "https://www.blackspigot.com/downloads/advancedchests-unlimited-sizes-holograms-upgrades-sells-sorter-compressor.16580/"
-    },
-    {
-        "name": "Nexo | Custom Blocks, Items, Furniture, Emotes &amp; ResourcePack-Manager [1.20.4-1.21.4]",
-        "image": "https://www.blackspigot.com/data/resource_icons/32/32993.jpg?1735408396",
-        "url": "https://www.blackspigot.com/downloads/nexo-custom-blocks-items-furniture-emotes-resourcepack-manager-1-20-4-1-21-4.32993/"
     },
     {
         "name": "Pocket Games [1.8 - 1.18] | 34 Premium Minigames | Multiplayer &amp; Single Player |",
