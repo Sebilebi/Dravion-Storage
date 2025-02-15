@@ -270,11 +270,6 @@
         "url": "https://www.blackspigot.com/downloads/sweet-pets-weasels.33002/"
     },
     {
-        "name": "RPG Class Legends | Terramancer",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33013.jpg?1735992410",
-        "url": "https://www.blackspigot.com/downloads/rpg-class-legends-terramancer.33013/"
-    },
-    {
         "name": "\u2b55 AdvancedChat \u2b55 AI-Powered Chat Moderation &amp; Chat Format \u2705 35+ Major Features",
         "image": "https://www.blackspigot.com/data/resource_icons/32/32558.jpg?1717414760",
         "url": "https://www.blackspigot.com/downloads/advancedchat-ai-powered-chat-moderation-chat-format-35-major-features.32558/"
@@ -418,6 +413,11 @@
         "name": "EcoItems \u2b55 Create Custom Items \u2705 Weapons, Armors, Tools, Charms \u2728 Item Levels, Rarities",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33104.jpg?1737494741",
         "url": "https://www.blackspigot.com/downloads/ecoitems-create-custom-items-weapons-armors-tools-charms-item-levels-rarities.33104/"
+    },
+    {
+        "name": "RPG Class Legends | Terramancer",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33013.jpg?1735992410",
+        "url": "https://www.blackspigot.com/downloads/rpg-class-legends-terramancer.33013/"
     },
     {
         "name": "SkyGrid (1.13 - 1.19+)",
