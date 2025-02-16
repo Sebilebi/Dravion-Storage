@@ -1,5 +1,100 @@
 [
     {
+        "name": "\u2708\ufe0fVehicles - OFFICIAL BSMC RELEASE",
+        "image": "https://www.blackspigot.com/data/resource_icons/0/763.jpg?1642823824",
+        "url": "https://www.blackspigot.com/downloads/vehicles-official-bsmc-release.763/"
+    },
+    {
+        "name": "\u2b50Ultimate Factions v2 \u25ba Unique Faction Plugin \u25c4 \u2705 [1.8 - 1.18] \u2705 | \u2728 [Fully Configurable] \u2728 2.0.3",
+        "image": "https://www.blackspigot.com/data/resource_icons/24/24104.jpg?1645166187",
+        "url": "https://www.blackspigot.com/downloads/ultimate-factions-v2-unique-faction-plugin-1-8-1-18-fully-configurable-2-0-3.24104/"
+    },
+    {
+        "name": "Stats Scoreboard Premium - 1.8 -> 1.20+ - HEX SUPPORTED",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33183.jpg?1739731117",
+        "url": "https://www.blackspigot.com/downloads/stats-scoreboard-premium-1-8-1-20-hex-supported.33183/"
+    },
+    {
+        "name": "ShowItem",
+        "image": "https://www.blackspigot.com/data/resource_icons/2/2883.jpg?1495223839",
+        "url": "https://www.blackspigot.com/downloads/showitem.2883/"
+    },
+    {
+        "name": "QuestsGUI",
+        "image": "https://www.blackspigot.com/data/resource_icons/14/14477.jpg?1643604181",
+        "url": "https://www.blackspigot.com/downloads/questsgui.14477/"
+    },
+    {
+        "name": "Public Crafting Tables",
+        "image": "https://www.blackspigot.com/data/resource_icons/24/24013.jpg?1644817154",
+        "url": "https://www.blackspigot.com/downloads/public-crafting-tables.24013/"
+    },
+    {
+        "name": "PinataParty - Interactive Event! \u2728 AIO Voting System \u2728 [1.12.x - 1.19.x]",
+        "image": "https://www.blackspigot.com/data/resource_icons/9/9082.jpg?1638821972",
+        "url": "https://www.blackspigot.com/downloads/pinataparty-interactive-event-aio-voting-system-1-12-x-1-19-x.9082/"
+    },
+    {
+        "name": "Markets - The Ultimate Player Shop",
+        "image": "https://www.blackspigot.com/data/resource_icons/24/24492.jpg?1648275696",
+        "url": "https://www.blackspigot.com/downloads/markets-the-ultimate-player-shop.24492/"
+    },
+    {
+        "name": "LobbyGames [1.8.x-1.21.x] \u2705 High Quality Minigames \u2705 100% Customizable \u2b55 Increase Player Retention",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33129.jpg?1738091153",
+        "url": "https://www.blackspigot.com/downloads/lobbygames-1-8-x-1-21-x-high-quality-minigames-100-customizable-increase-player-retention.33129/"
+    },
+    {
+        "name": "Guilds",
+        "image": "https://www.blackspigot.com/data/resource_icons/17/17056.jpg?1594744828",
+        "url": "https://www.blackspigot.com/downloads/guilds.17056/"
+    },
+    {
+        "name": "dtlTradersPlus",
+        "image": "https://www.blackspigot.com/data/resource_icons/15/15466.jpg?1586467206",
+        "url": "https://www.blackspigot.com/downloads/dtltradersplus.15466/"
+    },
+    {
+        "name": "DailyRewards+ | The #1 Daily Rewards Plugin on Spigot!",
+        "image": "https://www.blackspigot.com/data/resource_icons/26/26745.jpg?1667485801",
+        "url": "https://www.blackspigot.com/downloads/dailyrewards-the-1-daily-rewards-plugin-on-spigot.26745/"
+    },
+    {
+        "name": "ComplexTurrets | Defend Yourself using Turrets! [1.8-1.20]",
+        "image": "https://www.blackspigot.com/data/resource_icons/22/22403.jpg?1636124192",
+        "url": "https://www.blackspigot.com/downloads/complexturrets-defend-yourself-using-turrets-1-8-1-20.22403/"
+    },
+    {
+        "name": "BountyHunters Premium",
+        "image": "https://www.blackspigot.com/data/resource_icons/14/14667.jpg?1578322304",
+        "url": "https://www.blackspigot.com/downloads/bountyhunters-premium.14667/"
+    },
+    {
+        "name": "ACubelets \u00bb 20 Animations",
+        "image": "https://www.blackspigot.com/data/resource_icons/21/21094.jpg?1626300533",
+        "url": "https://www.blackspigot.com/downloads/acubelets-20-animations.21094/"
+    },
+    {
+        "name": "Pro SkyWars [Solo, Teams, Kits, Cages, Trails,Perks, MysteryBox, Hologram, Refills]",
+        "image": "https://www.blackspigot.com/data/resource_icons/2/2891.jpg?1517654651",
+        "url": "https://www.blackspigot.com/downloads/pro-skywars-solo-teams-kits-cages-trails-perks-mysterybox-hologram-refills.2891/"
+    },
+    {
+        "name": "\u26a1 BotSentry \u26a1 AntiBot/AntiProxy resisting +30k bots per second! | Bungee, Spigot, Sponge &amp; Velocity",
+        "image": "https://www.blackspigot.com/data/resource_icons/12/12072.jpg?1592007252",
+        "url": "https://www.blackspigot.com/downloads/botsentry-antibot-antiproxy-resisting-30k-bots-per-second-bungee-spigot-sponge-velocity.12072/"
+    },
+    {
+        "name": "\u2705 AdvancedOreGen \u26cf\ufe0f Random Ores for Skyblock\ufe0f \u2728",
+        "image": "https://www.blackspigot.com/data/resource_icons/12/12323.jpg?1559487382",
+        "url": "https://www.blackspigot.com/downloads/advancedoregen-random-ores-for-skyblock.12323/"
+    },
+    {
+        "name": "1.13 - 1.19.4 \u2b55 AdvancedMobs \u272820+ New Mobs In Minecraft \u2705",
+        "image": "https://www.blackspigot.com/data/resource_icons/29/29730.jpg?1680724951",
+        "url": "https://www.blackspigot.com/downloads/1-13-1-19-4-advancedmobs-20-new-mobs-in-minecraft.29730/"
+    },
+    {
         "name": "Quest Configuration (Diekieboy)",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33179.jpg?1739663287",
         "url": "https://www.blackspigot.com/downloads/quest-configuration-diekieboy.33179/"
@@ -43,101 +138,6 @@
         "name": "Farms - Advanced farming minions",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33176.jpg?1739647514",
         "url": "https://www.blackspigot.com/downloads/farms-advanced-farming-minions.33176/"
-    },
-    {
-        "name": "Upgradeable Hoppers - Fast Hopper Plugin Link Containers Item Transfer Suction Chunk - 1.20 Support",
-        "image": "https://www.blackspigot.com/data/resource_icons/15/15400.jpg?1585634616",
-        "url": "https://www.blackspigot.com/downloads/upgradeable-hoppers-fast-hopper-plugin-link-containers-item-transfer-suction-chunk-1-20-support.15400/"
-    },
-    {
-        "name": "\u2705 SafariNet - Premium Mob Catcher plugin",
-        "image": "https://www.blackspigot.com/data/resource_icons/2/2990.jpg?1568823083",
-        "url": "https://www.blackspigot.com/downloads/safarinet-premium-mob-catcher-plugin.2990/"
-    },
-    {
-        "name": "Head Database",
-        "image": "https://www.blackspigot.com/data/resource_icons/24/24686.jpg?1649264214",
-        "url": "https://www.blackspigot.com/downloads/head-database.24686/"
-    },
-    {
-        "name": "\u2705 -25% \u2620\ufe0f HackedServer | MODS &amp; CLIENTS detector",
-        "image": "https://www.blackspigot.com/data/resource_icons/24/24277.jpg?1646153405",
-        "url": "https://www.blackspigot.com/downloads/25-hackedserver-mods-clients-detector.24277/"
-    },
-    {
-        "name": "1.16-1.21.4 \u2b55 InfiniteGUI \u2b50 Create custom menus \u2b50 Innovative Animations \u2705Ultimate GUI Editor \u2705",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33175.jpg?1739640820",
-        "url": "https://www.blackspigot.com/downloads/1-16-1-21-4-infinitegui-create-custom-menus-innovative-animations-ultimate-gui-editor.33175/"
-    },
-    {
-        "name": "[Official] mcMMO - Original Author Returns!",
-        "image": "https://www.blackspigot.com/data/resource_icons/10/10991.jpg?1560306294",
-        "url": "https://www.blackspigot.com/downloads/official-mcmmo-original-author-returns.10991/"
-    },
-    {
-        "name": "JetsMinions | #1 MINIONS PLUGIN | ACTIONS | UPGRADES | ANIMATIONS | ROBOTS | [1.8 - 1.19]",
-        "image": "https://www.blackspigot.com/data/resource_icons/10/10886.jpg?1591568317",
-        "url": "https://www.blackspigot.com/downloads/jetsminions-1-minions-plugin-actions-upgrades-animations-robots-1-8-1-19.10886/"
-    },
-    {
-        "name": "\u2694 Heroes Premium \u2694 10% OFF BEST RPG PLUGIN EVER",
-        "image": "https://www.blackspigot.com/data/resource_icons/26/26778.jpg?1667591843",
-        "url": "https://www.blackspigot.com/downloads/heroes-premium-10-off-best-rpg-plugin-ever.26778/"
-    },
-    {
-        "name": "Lands - Land claim plugin Grief Prevention Protection GUI Management Nations Wars - 1.20 Support",
-        "image": "https://www.blackspigot.com/data/resource_icons/11/11354.jpg?1552058579",
-        "url": "https://www.blackspigot.com/downloads/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-20-support.11354/"
-    },
-    {
-        "name": "1.17-1.21.4 \u2b55 InfiniteFishing \u2b50 Over 17 Fishing Gamemodes \u2b50 Fish Market \u2b50 Custom Textures Included \u2705",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33174.jpg?1739640123",
-        "url": "https://www.blackspigot.com/downloads/1-17-1-21-4-infinitefishing-over-17-fishing-gamemodes-fish-market-custom-textures-included.33174/"
-    },
-    {
-        "name": "1.17-1.21.4 \u2b55 InfiniteCrops \u2b50 Stunning Free Textures \u2b50 19 Big Gameplay Features \u2705 Check Tag Line \u2193",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33173.jpg?1739640019",
-        "url": "https://www.blackspigot.com/downloads/1-17-1-21-4-infinitecrops-stunning-free-textures-19-big-gameplay-features-check-tag-line.33173/"
-    },
-    {
-        "name": "BeastTokens - Custom currency",
-        "image": "https://www.blackspigot.com/data/resource_icons/6/6173.jpg?1739378368",
-        "url": "https://www.blackspigot.com/downloads/beasttokens-custom-currency.6173/"
-    },
-    {
-        "name": "\u2728ItemsAdder\u2b50Emotes, Mobs, Items, Armors, HUD, GUI, Emojis, Blocks, Wings, Hats, Liquids",
-        "image": "https://www.blackspigot.com/data/resource_icons/14/14773.jpg?1642825311",
-        "url": "https://www.blackspigot.com/downloads/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.14773/"
-    },
-    {
-        "name": "CustomNameplates",
-        "image": "https://www.blackspigot.com/data/resource_icons/26/26462.jpg?1665334435",
-        "url": "https://www.blackspigot.com/downloads/customnameplates.26462/"
-    },
-    {
-        "name": "Model Engine 4 Leak\u2014Ultimate Entity Model Manager [1.19.4 - 1.20.1]",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31317.jpg?1702185354",
-        "url": "https://www.blackspigot.com/downloads/model-engine-4-leak-ultimate-entity-model-manager-1-19-4-1-20-1.31317/"
-    },
-    {
-        "name": "Slayer Weapon Set",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33115.jpg?1737830143",
-        "url": "https://www.blackspigot.com/downloads/slayer-weapon-set.33115/"
-    },
-    {
-        "name": "\u2728ExtraStorage\u2728 Create virtual storage for your player | Oraxen and ItemsAdder support",
-        "image": "https://www.blackspigot.com/data/resource_icons/31/31056.jpg?1695739459",
-        "url": "https://www.blackspigot.com/downloads/extrastorage-create-virtual-storage-for-your-player-oraxen-and-itemsadder-support.31056/"
-    },
-    {
-        "name": "MythicMobs Premium | 4 -5 | Version Archive | Dev Builds | 15 different copies",
-        "image": "https://www.blackspigot.com/data/resource_icons/29/29331.jpg?1678528289",
-        "url": "https://www.blackspigot.com/downloads/mythicmobs-premium-4-5-version-archive-dev-builds-15-different-copies.29331/"
-    },
-    {
-        "name": "Songoda Epic plugins [ALL] [Latest version - 10.02.2025] Latest version of all plugins",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33156.jpg?1739220293",
-        "url": "https://www.blackspigot.com/downloads/songoda-epic-plugins-all-latest-version-10-02-2025-latest-version-of-all-plugins.33156/"
     },
     {
         "name": "Nog's Plushies [Small White Cat &amp; Associates] - Hello Kitty - San Rio - Kuromi - My Melody",
@@ -280,6 +280,116 @@
         "url": "https://www.blackspigot.com/downloads/sweet-pets-weasels.33002/"
     },
     {
+        "name": "VoidTeleport+ | Falling into the void",
+        "image": "https://www.blackspigot.com/data/resource_icons/16/16437.jpg?1591978988",
+        "url": "https://www.blackspigot.com/downloads/voidteleport-falling-into-the-void.16437/"
+    },
+    {
+        "name": "PyroFarming [1.14.X - 1.21.X]",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33182.jpg?1739730164",
+        "url": "https://www.blackspigot.com/downloads/pyrofarming-1-14-x-1-21-x.33182/"
+    },
+    {
+        "name": "Private Mines \u2b50 Supports AutoSell \u26a1 Supports UltraPrisonCore \u26a1Supports Oraxen [1.13- 1.20]",
+        "image": "https://www.blackspigot.com/data/resource_icons/22/22247.jpg?1634677648",
+        "url": "https://www.blackspigot.com/downloads/private-mines-supports-autosell-supports-ultraprisoncore-supports-oraxen-1-13-1-20.22247/"
+    },
+    {
+        "name": "[\u2705MUST HAVE\u2705] PocketMobs - No resourcepack",
+        "image": "https://www.blackspigot.com/data/resource_icons/14/14935.jpg?1580524647",
+        "url": "https://www.blackspigot.com/downloads/must-have-pocketmobs-no-resourcepack.14935/"
+    },
+    {
+        "name": "MysteryBoxes - Designed Networks &amp; Small Servers [1.16-1.17]",
+        "image": "https://www.blackspigot.com/data/resource_icons/22/22202.jpg?1634230307",
+        "url": "https://www.blackspigot.com/downloads/mysteryboxes-designed-networks-small-servers-1-16-1-17.22202/"
+    },
+    {
+        "name": "QuestCreator - NEW: 1.20 support",
+        "image": "https://www.blackspigot.com/data/resource_icons/11/11352.jpg?1702824250",
+        "url": "https://www.blackspigot.com/downloads/questcreator-new-1-20-support.11352/"
+    },
+    {
+        "name": "Minetorio | \u2699\ufe0fAutomation \u2714\ufe0f Autogather \ufe0f\u2714\ufe0f Autosort \u2714\ufe0f Automove",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33181.jpg?1739727589",
+        "url": "https://www.blackspigot.com/downloads/minetorio-automation-autogather-autosort-automove.33181/"
+    },
+    {
+        "name": "Minions &amp; Hunger - A collectible competitive card game!",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33180.jpg?1739727409",
+        "url": "https://www.blackspigot.com/downloads/minions-hunger-a-collectible-competitive-card-game.33180/"
+    },
+    {
+        "name": "Jumpscares <\u0c20> 37 different auto-sent screamers",
+        "image": "https://www.blackspigot.com/data/resource_icons/28/28656.jpg?1676445327",
+        "url": "https://www.blackspigot.com/downloads/jumpscares-37-different-auto-sent-screamers.28656/"
+    },
+    {
+        "name": "InteractiveBoard",
+        "image": "https://www.blackspigot.com/data/resource_icons/15/15614.jpg?1587121920",
+        "url": "https://www.blackspigot.com/downloads/interactiveboard.15614/"
+    },
+    {
+        "name": "HuskSync [1.16-1.20] - Synchronize player inventories &amp; data cross-server",
+        "image": "https://www.blackspigot.com/data/resource_icons/25/25022.jpg?1651707222",
+        "url": "https://www.blackspigot.com/downloads/husksync-1-16-1-20-synchronize-player-inventories-data-cross-server.25022/"
+    },
+    {
+        "name": "FactionsUUID",
+        "image": "https://www.blackspigot.com/data/resource_icons/11/11956.jpg?1556701001",
+        "url": "https://www.blackspigot.com/downloads/factionsuuid.11956/"
+    },
+    {
+        "name": "EliteArmor \u27a2 Create Your Own Sets \u2726 11x Premade Sets \u2726 132 Multi-Armor Crystals \u2726 Crafting Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/26/26775.jpg?1667575469",
+        "url": "https://www.blackspigot.com/downloads/elitearmor-create-your-own-sets-11x-premade-sets-132-multi-armor-crystals-crafting-support.26775/"
+    },
+    {
+        "name": "Constructor [1.13-1.16] - NPCs build your schematics and structures block by bloc",
+        "image": "https://www.blackspigot.com/data/resource_icons/17/17343.jpg?1597200620",
+        "url": "https://www.blackspigot.com/downloads/constructor-1-13-1-16-npcs-build-your-schematics-and-structures-block-by-bloc.17343/"
+    },
+    {
+        "name": "Blueshop (Admin sign shop plugin)",
+        "image": "https://www.blackspigot.com/data/resource_icons/24/24658.jpg?1649138744",
+        "url": "https://www.blackspigot.com/downloads/blueshop-admin-sign-shop-plugin.24658/"
+    },
+    {
+        "name": "BettingGames - RECODED!",
+        "image": "https://www.blackspigot.com/data/resource_icons/24/24254.jpg?1645948694",
+        "url": "https://www.blackspigot.com/downloads/bettinggames-recoded.24254/"
+    },
+    {
+        "name": "Better Farming \u2b55 Auto Farm Plugin Crops and Trees \u2705 Automated Grow Plant Harvest GUI - 1.20 Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/14/14343.jpg?1642785572",
+        "url": "https://www.blackspigot.com/downloads/better-farming-auto-farm-plugin-crops-and-trees-automated-grow-plant-harvest-gui-1-20-support.14343/"
+    },
+    {
+        "name": "BetterDragon: Counter Attacks",
+        "image": "https://www.blackspigot.com/data/resource_icons/24/24715.jpg?1649268570",
+        "url": "https://www.blackspigot.com/downloads/betterdragon-counter-attacks.24715/"
+    },
+    {
+        "name": "\u3010AdvancedKits\u3011\u2726CATEGORIES\u26a1\ufe0fPREVIEW GUI\u2728KIT UPGRADES\u2728KIT VOUCHERS\u2728ANIMATIONS\u2728EQUIP ARMOR\u26a1\ufe0fHEX COLORS\u2726",
+        "image": "https://www.blackspigot.com/data/resource_icons/20/20378.jpg?1619865982",
+        "url": "https://www.blackspigot.com/downloads/advancedkits-categories-preview-gui-kit-upgrades-kit-vouchers-animations-equip-armor-hex-colors.20378/"
+    },
+    {
+        "name": "RealisticSeasons | 1.16.3-1.20.1 | Seasons in your minecraft world | With temperature and calendar!",
+        "image": "https://www.blackspigot.com/data/resource_icons/21/21436.jpg?1644809987",
+        "url": "https://www.blackspigot.com/downloads/realisticseasons-1-16-3-1-20-1-seasons-in-your-minecraft-world-with-temperature-and-calendar.21436/"
+    },
+    {
+        "name": "Mango PlotMines",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33015.jpg?1736013059",
+        "url": "https://www.blackspigot.com/downloads/mango-plotmines.33015/"
+    },
+    {
+        "name": "GUIPlus - Simply create clickable GUI's (Ingame GUI Builder) [1.7 - 1.19 ]",
+        "image": "https://www.blackspigot.com/data/resource_icons/6/6383.jpg?1512280270",
+        "url": "https://www.blackspigot.com/downloads/guiplus-simply-create-clickable-guis-ingame-gui-builder-1-7-1-19.6383/"
+    },
+    {
         "name": "\u2726 Tower Defense X \u2726 [40% SALE] [Create towers and enemies/bosses with your custom designs!]",
         "image": "https://www.blackspigot.com/data/resource_icons/24/24052.jpg?1645044291",
         "url": "https://www.blackspigot.com/downloads/tower-defense-x-40-sale-create-towers-and-enemies-bosses-with-your-custom-designs.24052/"
@@ -313,6 +423,101 @@
         "name": "Adapt - Leveling, Skills, and Abilities",
         "image": "https://www.blackspigot.com/data/resource_icons/27/27722.jpg?1671432680",
         "url": "https://www.blackspigot.com/downloads/adapt-leveling-skills-and-abilities.27722/"
+    },
+    {
+        "name": "Upgradeable Hoppers - Fast Hopper Plugin Link Containers Item Transfer Suction Chunk - 1.20 Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/15/15400.jpg?1585634616",
+        "url": "https://www.blackspigot.com/downloads/upgradeable-hoppers-fast-hopper-plugin-link-containers-item-transfer-suction-chunk-1-20-support.15400/"
+    },
+    {
+        "name": "\u2705 SafariNet - Premium Mob Catcher plugin",
+        "image": "https://www.blackspigot.com/data/resource_icons/2/2990.jpg?1568823083",
+        "url": "https://www.blackspigot.com/downloads/safarinet-premium-mob-catcher-plugin.2990/"
+    },
+    {
+        "name": "Head Database",
+        "image": "https://www.blackspigot.com/data/resource_icons/24/24686.jpg?1649264214",
+        "url": "https://www.blackspigot.com/downloads/head-database.24686/"
+    },
+    {
+        "name": "\u2705 -25% \u2620\ufe0f HackedServer | MODS &amp; CLIENTS detector",
+        "image": "https://www.blackspigot.com/data/resource_icons/24/24277.jpg?1646153405",
+        "url": "https://www.blackspigot.com/downloads/25-hackedserver-mods-clients-detector.24277/"
+    },
+    {
+        "name": "1.16-1.21.4 \u2b55 InfiniteGUI \u2b50 Create custom menus \u2b50 Innovative Animations \u2705Ultimate GUI Editor \u2705",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33175.jpg?1739640820",
+        "url": "https://www.blackspigot.com/downloads/1-16-1-21-4-infinitegui-create-custom-menus-innovative-animations-ultimate-gui-editor.33175/"
+    },
+    {
+        "name": "[Official] mcMMO - Original Author Returns!",
+        "image": "https://www.blackspigot.com/data/resource_icons/10/10991.jpg?1560306294",
+        "url": "https://www.blackspigot.com/downloads/official-mcmmo-original-author-returns.10991/"
+    },
+    {
+        "name": "JetsMinions | #1 MINIONS PLUGIN | ACTIONS | UPGRADES | ANIMATIONS | ROBOTS | [1.8 - 1.19]",
+        "image": "https://www.blackspigot.com/data/resource_icons/10/10886.jpg?1591568317",
+        "url": "https://www.blackspigot.com/downloads/jetsminions-1-minions-plugin-actions-upgrades-animations-robots-1-8-1-19.10886/"
+    },
+    {
+        "name": "\u2694 Heroes Premium \u2694 10% OFF BEST RPG PLUGIN EVER",
+        "image": "https://www.blackspigot.com/data/resource_icons/26/26778.jpg?1667591843",
+        "url": "https://www.blackspigot.com/downloads/heroes-premium-10-off-best-rpg-plugin-ever.26778/"
+    },
+    {
+        "name": "Lands - Land claim plugin Grief Prevention Protection GUI Management Nations Wars - 1.20 Support",
+        "image": "https://www.blackspigot.com/data/resource_icons/11/11354.jpg?1552058579",
+        "url": "https://www.blackspigot.com/downloads/lands-land-claim-plugin-grief-prevention-protection-gui-management-nations-wars-1-20-support.11354/"
+    },
+    {
+        "name": "1.17-1.21.4 \u2b55 InfiniteFishing \u2b50 Over 17 Fishing Gamemodes \u2b50 Fish Market \u2b50 Custom Textures Included \u2705",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33174.jpg?1739640123",
+        "url": "https://www.blackspigot.com/downloads/1-17-1-21-4-infinitefishing-over-17-fishing-gamemodes-fish-market-custom-textures-included.33174/"
+    },
+    {
+        "name": "1.17-1.21.4 \u2b55 InfiniteCrops \u2b50 Stunning Free Textures \u2b50 19 Big Gameplay Features \u2705 Check Tag Line \u2193",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33173.jpg?1739640019",
+        "url": "https://www.blackspigot.com/downloads/1-17-1-21-4-infinitecrops-stunning-free-textures-19-big-gameplay-features-check-tag-line.33173/"
+    },
+    {
+        "name": "BeastTokens - Custom currency",
+        "image": "https://www.blackspigot.com/data/resource_icons/6/6173.jpg?1739378368",
+        "url": "https://www.blackspigot.com/downloads/beasttokens-custom-currency.6173/"
+    },
+    {
+        "name": "\u2728ItemsAdder\u2b50Emotes, Mobs, Items, Armors, HUD, GUI, Emojis, Blocks, Wings, Hats, Liquids",
+        "image": "https://www.blackspigot.com/data/resource_icons/14/14773.jpg?1642825311",
+        "url": "https://www.blackspigot.com/downloads/itemsadder-emotes-mobs-items-armors-hud-gui-emojis-blocks-wings-hats-liquids.14773/"
+    },
+    {
+        "name": "CustomNameplates",
+        "image": "https://www.blackspigot.com/data/resource_icons/26/26462.jpg?1665334435",
+        "url": "https://www.blackspigot.com/downloads/customnameplates.26462/"
+    },
+    {
+        "name": "Model Engine 4 Leak\u2014Ultimate Entity Model Manager [1.19.4 - 1.20.1]",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31317.jpg?1702185354",
+        "url": "https://www.blackspigot.com/downloads/model-engine-4-leak-ultimate-entity-model-manager-1-19-4-1-20-1.31317/"
+    },
+    {
+        "name": "Slayer Weapon Set",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33115.jpg?1737830143",
+        "url": "https://www.blackspigot.com/downloads/slayer-weapon-set.33115/"
+    },
+    {
+        "name": "\u2728ExtraStorage\u2728 Create virtual storage for your player | Oraxen and ItemsAdder support",
+        "image": "https://www.blackspigot.com/data/resource_icons/31/31056.jpg?1695739459",
+        "url": "https://www.blackspigot.com/downloads/extrastorage-create-virtual-storage-for-your-player-oraxen-and-itemsadder-support.31056/"
+    },
+    {
+        "name": "MythicMobs Premium | 4 -5 | Version Archive | Dev Builds | 15 different copies",
+        "image": "https://www.blackspigot.com/data/resource_icons/29/29331.jpg?1678528289",
+        "url": "https://www.blackspigot.com/downloads/mythicmobs-premium-4-5-version-archive-dev-builds-15-different-copies.29331/"
+    },
+    {
+        "name": "Songoda Epic plugins [ALL] [Latest version - 10.02.2025] Latest version of all plugins",
+        "image": "https://www.blackspigot.com/data/resource_icons/33/33156.jpg?1739220293",
+        "url": "https://www.blackspigot.com/downloads/songoda-epic-plugins-all-latest-version-10-02-2025-latest-version-of-all-plugins.33156/"
     },
     {
         "name": "\u2694\ufe0f ExecutableItems \u2b50 Custom Tools | Weapons | Armors | Potions, Stats Items, Vouchers, Cosmetics \u2b50",
@@ -458,16 +663,6 @@
         "name": "HMCWraps",
         "image": "https://www.blackspigot.com/data/resource_icons/29/29358.jpg?1678571976",
         "url": "https://www.blackspigot.com/downloads/hmcwraps.29358/"
-    },
-    {
-        "name": "ShowItem",
-        "image": "https://www.blackspigot.com/data/resource_icons/2/2883.jpg?1495223839",
-        "url": "https://www.blackspigot.com/downloads/showitem.2883/"
-    },
-    {
-        "name": "LobbyGames [1.8.x-1.21.x] \u2705 High Quality Minigames \u2705 100% Customizable \u2b55 Increase Player Retention",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33129.jpg?1738091153",
-        "url": "https://www.blackspigot.com/downloads/lobbygames-1-8-x-1-21-x-high-quality-minigames-100-customizable-increase-player-retention.33129/"
     },
     {
         "name": "TimeControl [1.13.X - 1.20.X]",
@@ -845,11 +1040,6 @@
         "url": "https://www.blackspigot.com/downloads/party-games-x-23-minigames-parties-spleef-quake-tntrun-tons-more.19902/"
     },
     {
-        "name": "GUIPlus - Simply create clickable GUI's (Ingame GUI Builder) [1.7 - 1.19 ]",
-        "image": "https://www.blackspigot.com/data/resource_icons/6/6383.jpg?1512280270",
-        "url": "https://www.blackspigot.com/downloads/guiplus-simply-create-clickable-guis-ingame-gui-builder-1-7-1-19.6383/"
-    },
-    {
         "name": "ccShop \u00bb Modern GUI Chest Shops \u00bb 1.20.6 - 1.21.4 \u00bb",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33128.jpg?1738090822",
         "url": "https://www.blackspigot.com/downloads/ccshop-modern-gui-chest-shops-1-20-6-1-21-4.33128/"
@@ -860,11 +1050,6 @@
         "url": "https://www.blackspigot.com/downloads/premium-warps-portals-and-more-warp-teleport-system-1-8-1-19.26770/"
     },
     {
-        "name": "RealisticSeasons | 1.16.3-1.20.1 | Seasons in your minecraft world | With temperature and calendar!",
-        "image": "https://www.blackspigot.com/data/resource_icons/21/21436.jpg?1644809987",
-        "url": "https://www.blackspigot.com/downloads/realisticseasons-1-16-3-1-20-1-seasons-in-your-minecraft-world-with-temperature-and-calendar.21436/"
-    },
-    {
         "name": "HideAndSeek",
         "image": "https://www.blackspigot.com/data/resource_icons/10/10994.jpg?1548618402",
         "url": "https://www.blackspigot.com/downloads/hideandseek.10994/"
@@ -873,11 +1058,6 @@
         "name": "Epidemic",
         "image": "https://www.blackspigot.com/data/resource_icons/14/14348.jpg?1575382701",
         "url": "https://www.blackspigot.com/downloads/epidemic.14348/"
-    },
-    {
-        "name": "\u3010AdvancedKits\u3011\u2726CATEGORIES\u26a1\ufe0fPREVIEW GUI\u2728KIT UPGRADES\u2728KIT VOUCHERS\u2728ANIMATIONS\u2728EQUIP ARMOR\u26a1\ufe0fHEX COLORS\u2726",
-        "image": "https://www.blackspigot.com/data/resource_icons/20/20378.jpg?1619865982",
-        "url": "https://www.blackspigot.com/downloads/advancedkits-categories-preview-gui-kit-upgrades-kit-vouchers-animations-equip-armor-hex-colors.20378/"
     },
     {
         "name": "\u26cf Custom Items \u2705 1.19 READY \u2705 Make NEW ITEMS &amp; BLOCKS with NEW TEXTURES, Recipes, Events &amp; Actions",
@@ -893,11 +1073,6 @@
         "name": "\u2728 Asura Collector \u2728[1.17 - 1.21] [\u2714\ufe0fAuto-Sell, \u2714\ufe0fAuto-Kill, \u2714\ufe0fAuto-Farm, \u2714\ufe0fAuto-Smelt]",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33121.jpg?1737912983",
         "url": "https://www.blackspigot.com/downloads/asura-collector-1-17-1-21-auto-sell-auto-kill-auto-farm-auto-smelt.33121/"
-    },
-    {
-        "name": "1.13 - 1.19.4 \u2b55 AdvancedMobs \u272820+ New Mobs In Minecraft \u2705",
-        "image": "https://www.blackspigot.com/data/resource_icons/29/29730.jpg?1680724951",
-        "url": "https://www.blackspigot.com/downloads/1-13-1-19-4-advancedmobs-20-new-mobs-in-minecraft.29730/"
     },
     {
         "name": "\u2b50 Advanced Crates \u2b55 17 Premium Animations \u2705 Custom Item Support \u2705 In-Game Editor \u2728 Lootboxes",
@@ -953,11 +1128,6 @@
         "name": "KitBattle Advanced",
         "image": "https://www.blackspigot.com/data/resource_icons/11/11108.jpg?1550512891",
         "url": "https://www.blackspigot.com/downloads/kitbattle-advanced.11108/"
-    },
-    {
-        "name": "FactionsUUID",
-        "image": "https://www.blackspigot.com/data/resource_icons/11/11956.jpg?1556701001",
-        "url": "https://www.blackspigot.com/downloads/factionsuuid.11956/"
     },
     {
         "name": "DailyBonus [1.7 - 1.19] - Increase player retention!",
@@ -1068,11 +1238,6 @@
         "name": "FasterFurnaces \u2b55 Enhance Furnace Usage \u2705 Efficiency Upgrades - 1.21 Support 1.2.9",
         "image": "https://www.blackspigot.com/data/resource_icons/33/33019.jpg?1736488362",
         "url": "https://www.blackspigot.com/downloads/fasterfurnaces-enhance-furnace-usage-efficiency-upgrades-1-21-support-1-2-9.33019/"
-    },
-    {
-        "name": "Mango PlotMines",
-        "image": "https://www.blackspigot.com/data/resource_icons/33/33015.jpg?1736013059",
-        "url": "https://www.blackspigot.com/downloads/mango-plotmines.33015/"
     },
     {
         "name": "Elections \u25cf Nominate, vote &amp; win with ease [1.8-1.15]",
